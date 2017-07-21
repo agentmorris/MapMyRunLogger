@@ -22,7 +22,7 @@ There are three ways one could theoretically get a list of workout IDs, not coun
 (3) One could manually open every workout in your browser, and write code to crawl your browser history for URLs.  I estimate the workout-clicking could be done at about two workouts per second, so this would be pretty quick, but it was worth my $5 to avoid doing this.
 
 
-## RunPageGenerator
+## RunPageGenerator.csproj
 
 This is the code that takes all those thumbnails and .xml files (from MyMyRunLogger.csproj) and makes a pretty Web page like this one:
 
