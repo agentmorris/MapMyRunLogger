@@ -1,0 +1,10 @@
+.vs/
+*.exe
+*.exe.config
+*.pdb
+AuthTest/bin/
+AuthTest/obj/Debug/AuthTest.csproj.FileListAbsolute.txt
+AuthTest/obj/
+MapMyRunLogger/obj/
+MapMyRunLogger/bin/
+RunPageGenerator/obj/
