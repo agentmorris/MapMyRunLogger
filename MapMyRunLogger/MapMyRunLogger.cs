@@ -20,6 +20,8 @@ using System.IO;
 using System.Text;
 using System.Linq;
 using System.Xml;
+using System.Threading;
+using System.Threading.Tasks;
 
 // Variable assigned but never used (I use these variables when I un-comment a chunk of code to download a certain subset of data)
 #pragma warning disable 414
@@ -28,10 +30,12 @@ namespace MapMyRunLogger
 {  
     public class MapMyRunLogger
     {
-		// The list of workouts to download (see readme.txt)
-        const String RUN_LIST_PATH = @"..\..\data\workout_history.csv";        
+        // The list of workouts to download (see readme.txt)
+        const String RUN_LIST_PATH = @"..\..\data\workout_history.csv";
 
-		// The MMR authentication URL
+        const String LOGIN_PATH = @"..\..\data\login.txt";
+
+        // The MMR authentication URL
         const String MMR_AUTH_URL = "https://www.mapmyrun.com/auth/login";
 
 		// A username and password for authentication
@@ -41,16 +45,21 @@ namespace MapMyRunLogger
         static String MMR_PW = "";
 
 		// We're going to retrieve thumbnails for every workout; what size should they be?
-        const String THUMBNAIL_SIZE_STRING = "1000x500";
-
-		// Sanity-checks on our parsing of the workout list
+        const String IMAGE_SIZE_STRING = "1000x500";
+        
+        // Sanity-checks on our parsing of the workout list
         const int RAW_TOKENS_PER_LINE = 31;
         const int N_COLUMNS = 15;
 
-		const int MAX_DOWNLOAD_THREADS = 50;
+        // If 1, don't use parallel.foreach
+#if DEBUG
+        const int MAX_DOWNLOAD_THREADS = 1;
+#else
+        const int MAX_DOWNLOAD_THREADS = 50;
+#endif
 
-		// Column identifiers for the workout list file
-		enum RUN_LIST_COLUMNS : int
+        // Column identifiers for the workout list file
+        enum RUN_LIST_COLUMNS : int
         {
             COL_DATE_SUBMITTED = 0,
             COL_DATE,
@@ -145,15 +154,25 @@ namespace MapMyRunLogger
             // Prompt for login
             if (MMR_USERNAME.Length == 0)
             {
-                Console.Write("Enter username: ");
-                MMR_USERNAME = Console.ReadLine().Trim();
-                Console.WriteLine("Using username {0}", MMR_USERNAME);
-
-                Console.Write("Enter pw: ");
-                MMR_PW = Console.ReadLine().Trim();
-                Console.WriteLine("Using pw {0}", MMR_PW);
+                if (System.IO.File.Exists(LOGIN_PATH))
+                {
+                    String[] loginLines = System.IO.File.ReadAllLines(LOGIN_PATH);
+                    MMR_USERNAME = loginLines[0];
+                    MMR_PW = loginLines[1];
+                }
+                else
+                {
+                    Console.Write("Enter username: ");
+                    MMR_USERNAME = Console.ReadLine().Trim();
+                    
+                    Console.Write("Enter pw: ");
+                    MMR_PW = Console.ReadLine().Trim();
+                    
+                }
             }
 
+            Console.WriteLine("Using username {0}", MMR_USERNAME);
+            Console.WriteLine("Using pw {0}", MMR_PW);
             // Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),
             //   Workout Time (seconds),Avg Pace (min/mi),Max Pace,Avg Speed (mi/h),Max Speed,
             //   Avg Heart Rate,Steps,Notes,Source,Link
@@ -161,7 +180,7 @@ namespace MapMyRunLogger
             // Lines look like:
             //
             // "June 11, 2017","June 11, 2017",Run,315,3.08999,1215,6.55,0,9.16031,0,,3626,,,http://www.mapmyrun.com/workout/2255711738
-            
+
             String[] lines = System.IO.File.ReadAllLines(RUN_LIST_PATH);
 
             List<Workout> workouts = new List<Workout>();
@@ -221,8 +240,11 @@ namespace MapMyRunLogger
             CookieContainer cookies = Authenticate();
 
             // Fetch titles, download tcx files
-            foreach (Workout w in sortedWorkouts) { ProcessWorkout(w, cookies); }
-            // Parallel.ForEach(sortedWorkouts, new ParallelOptions { MaxDegreeOfParallelism = MAX_DOWNLOAD_THREADS }, (w) => { ProcessWorkout(w, cookies); });
+            if (MAX_DOWNLOAD_THREADS <= 1)
+                foreach (Workout w in sortedWorkouts) { ProcessWorkout(w, cookies); }
+            else
+                Parallel.ForEach(sortedWorkouts, new ParallelOptions { MaxDegreeOfParallelism = MAX_DOWNLOAD_THREADS }, (w) => { ProcessWorkout(w, cookies); });
+
 
             // ...for each workout
 
@@ -264,7 +286,7 @@ namespace MapMyRunLogger
             w.id = id;
             String tcxUrl = "http://www.mapmyrun.com/workout/export/" + id + "/tcx%20HTTP/1.1";
             String tcxOutFile = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "tcx_export." + id + ".tcx");
-            String thumbnailFile = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "thumbnail." + id + ".png");
+            String imageFile = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "thumbnail." + id + ".png");
             String xmlOutFile = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "xml_info." + id + ".xml");
 
             try
@@ -356,39 +378,39 @@ namespace MapMyRunLogger
                     }
                     else
                     {
-                        String s = String.Format("Could not find location for workout {0}", w.link);
+                        String s = String.Format("Could not find location for workout {0} ({1})", w.link, w.title);
                         w.warning += String.Format("{0}\n", s);
                         Console.WriteLine(s);
                     }
                 }
                 else
                 {
-                    String s = String.Format("Could not find route for workout {0}", w.link);
+                    String s = String.Format("Could not find route for workout {0} ({1})", w.link, w.title);
                     w.warning += String.Format("{0}\n", s);
                     Console.WriteLine(s);
                 }
 
-                if (!System.IO.File.Exists(thumbnailFile))
+                // Download a thumbnail (really the 1000 x N image) for this run
+                if (System.IO.File.Exists(imageFile))
                 {
-                    // Download a thumbnail for this run
                     // <meta property="og:image" content="http://drzetlglcbfx.cloudfront.net/routes/thumbnail/55433136?size=200x200" />
                     Regex thumbnailR = new Regex("<.[^>]+og:image[^>]+content=\"(.*)\"[^>]+>");
                     m = thumbnailR.Match(pageData);
                     if (m.Success)
                     {
-                        String originalThumbUrl = m.Groups[1].Value;
-                        if (!originalThumbUrl.Contains("200x200"))
+                        String originalImageUrl = m.Groups[1].Value;
+                        if (!originalImageUrl.Contains("200x200"))
                         {
-                            String s = String.Format("Thumbnail id error for workout {0}", w.link);
+                            String s = String.Format("Thumbnail id error for workout {0} ({1})", w.link, w.title);
                             w.warning += String.Format("{0}\n", s);
                             Console.WriteLine(s);
                         }
-                        String bigThumbUrl = originalThumbUrl.Replace("200x200", THUMBNAIL_SIZE_STRING);
-                        wc.DownloadFile(bigThumbUrl, thumbnailFile);
+                        String bigImageUrl = originalImageUrl.Replace("200x200", IMAGE_SIZE_STRING);
+                        wc.DownloadFile(bigImageUrl, imageFile);
                     }
                     else
                     {
-                        String s = String.Format("Could not find thumbnail for workout {0}", w.link);
+                        String s = String.Format("Could not find thumbnail for workout {0} ({1})", w.link, w.title);
                         w.warning += String.Format("{0}\n", s);
                         Console.WriteLine(s);
                     }

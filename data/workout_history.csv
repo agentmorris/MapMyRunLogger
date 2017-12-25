@@ -1,46 +1,49 @@
 Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),Workout Time (seconds),Avg Pace (min/mi),Max Pace,Avg Speed (mi/h),Max Speed,Avg Heart Rate,Steps,Notes,Source,Link
-"June 11, 2017","June 11, 2017",Run,315,3.08999,1215,6.55,0,9.16031,0,,3626,,,http://www.mapmyrun.com/workout/2255711738
-"June 11, 2017","June 6, 2017",Run,474,4.39972,2295,8.68039,0,6.91213,0,,6422,,,http://www.mapmyrun.com/workout/2255711588
-"June 4, 2017","June 4, 2017",Run,1150,10.3903,5525,8.85228,0,6.77792,0,,15637,,,http://www.mapmyrun.com/workout/2240323469
-"June 4, 2017","June 1, 2017",Run,578,5.51763,2791,8.43472,0,7.11346,0,,7982,,,http://www.mapmyrun.com/workout/2240323232
-"June 1, 2017","May 30, 2017",Run,386,3.82619,1662,7.2493,0,8.27666,0,,4906,,,http://www.mapmyrun.com/workout/2232337313
-"June 1, 2017","May 28, 2017",Run,1242,10.9925,6347,9.61376,0,6.24105,0,,17625,,,http://www.mapmyrun.com/workout/2232337301
-"June 1, 2017","May 25, 2017",Run,558,5.07759,3472,11.4138,0,5.2568,0,,8134,,,http://www.mapmyrun.com/workout/2232336710
-"June 1, 2017","May 23, 2017",Run,503,4.9042,2944,10.0084,0,5.99499,0,,6781,,,http://www.mapmyrun.com/workout/2232336389
-"May 16, 2017","May 13, 2017",Run,1074,9.38878,5893,10.4775,0,5.72656,0,,16366,,,http://www.mapmyrun.com/workout/2198091713
-"May 11, 2017","May 11, 2017",Run,491,4.74587,2797,9.82506,0,6.10684,0,,7311,,,http://www.mapmyrun.com/workout/2186353397
-"May 11, 2017","May 9, 2017",Run,591,5.91455,3682,10.3561,0,5.79366,0,,8335,,,http://www.mapmyrun.com/workout/2186353250
-"May 6, 2017","May 6, 2017",Run,1366,13.27,5745,7.21667,0,8.31409,0,,17005,,,http://www.mapmyrun.com/workout/2174257553
-"May 2, 2017","May 2, 2017",Run,514,5.11198,2903,9.47788,0,6.33053,0,,6901,,,http://www.mapmyrun.com/workout/2165710046
-"May 2, 2017","May 2, 2017",Run,118,1.09246,613,9.34578,0,6.42001,0,,1618,,,http://www.mapmyrun.com/workout/2165709698
-"April 30, 2017","April 30, 2017",Run,928,8.22007,4797,9.71826,0,6.17394,0,,13410,,,http://www.mapmyrun.com/workout/2161371761
-"April 30, 2017","April 27, 2017",Run,479,4.54431,2270,8.32994,0,7.20293,0,,6700,,,http://www.mapmyrun.com/workout/2161371350
-"April 30, 2017","April 27, 2017",Run,101,0.864439,479,9.2491,0,6.48712,0,,1476,,,http://www.mapmyrun.com/workout/2161371188
-"April 30, 2017","April 25, 2017",Run,463,4.54952,2564,9.37846,0,6.39764,0,,6575,,,http://www.mapmyrun.com/workout/2161371212
-"April 30, 2017","April 23, 2017",Run,1160,10.2613,6386,10.3561,0,5.79366,0,,18005,,,http://www.mapmyrun.com/workout/2161371071
-"April 30, 2017","April 21, 2017",Run,472,4.17416,2303,9.18575,0,6.53185,0,,6797,,,http://www.mapmyrun.com/workout/2161370696
-"April 30, 2017","April 18, 2017",Run,513,5.06872,2954,9.71826,0,6.17394,0,,7395,,,http://www.mapmyrun.com/workout/2161370594
-"April 15, 2017","April 15, 2017",Run,1163,10.3578,6035,9.71826,0,6.17394,0,,16902,,,http://www.mapmyrun.com/workout/2128716644
-"April 9, 2017","April 9, 2017",Run,1610,12.99,5848,7.5,0,8.0,0,,17219,,,http://www.mapmyrun.com/workout/2114720576
-"April 9, 2017","April 4, 2017",Run,511,5.06483,2972,9.7892,0,6.12921,0,,7148,,,http://www.mapmyrun.com/workout/2114720003
-"April 9, 2017","April 4, 2017",Run,109,1.09542,606,9.21732,0,6.50948,0,,1729,,,http://www.mapmyrun.com/workout/2114719613
-"April 2, 2017","April 2, 2017",Run,928,8.1872,4939,10.0458,0,5.97262,0,,13777,,,http://www.mapmyrun.com/workout/2100897125
-"April 2, 2017","March 28, 2017",Run,403,3.92321,2354,10.0084,0,5.99499,0,,5531,,,http://www.mapmyrun.com/workout/2100897014
-"April 2, 2017","March 28, 2017",Run,118,1.10627,709,10.6862,0,5.61471,0,,1641,,,http://www.mapmyrun.com/workout/2100896933
-"March 26, 2017","March 26, 2017",Run,1185,10.4769,6563,10.4367,0,5.74893,0,,18170,,,http://www.mapmyrun.com/workout/2086076435
-"March 26, 2017","March 21, 2017",Run,514,5.05701,2878,9.47788,0,6.33053,0,,6960,,,http://www.mapmyrun.com/workout/2085572312
-"March 26, 2017","March 21, 2017",Run,126,1.12852,858,12.6521,0,4.7423,0,,1895,,,http://www.mapmyrun.com/workout/2085572060
-"March 18, 2017","March 18, 2017",Run,1208,10.5721,6987,10.9928,0,5.45812,0,,19438,,,http://www.mapmyrun.com/workout/2070093146
-"March 18, 2017","March 16, 2017",Run,438,3.98229,2196,9.18575,0,6.53185,0,,6420,,,http://www.mapmyrun.com/workout/2070092804
-"March 18, 2017","March 14, 2017",Run,417,4.0312,2167,8.9707,0,6.68844,0,,5615,,,http://www.mapmyrun.com/workout/2070092693
-"March 18, 2017","March 14, 2017",Run,88,0.80485,440,9.12327,0,6.57659,0,,1294,,,http://www.mapmyrun.com/workout/2070092582
-"March 18, 2017","March 12, 2017",Run,1271,11.0308,6933,10.4775,0,5.72656,0,,19574,,,http://www.mapmyrun.com/workout/2070092621
-"March 9, 2017","March 9, 2017",Run,482,4.34867,2237,8.56946,0,7.00161,0,,6654,,,http://www.mapmyrun.com/workout/2054519741
-"March 9, 2017","March 7, 2017",Run,533,5.09053,2775,9.09234,0,6.59896,0,,7019,,,http://www.mapmyrun.com/workout/2054519666
-"March 9, 2017","March 7, 2017",Run,120,1.11843,610,9.09234,0,6.59896,0,,1700,,,http://www.mapmyrun.com/workout/2054519435
-"March 4, 2017","March 4, 2017",Run,1370,13.09,6003,7.65,0,7.84314,0,,17825,,,http://www.mapmyrun.com/workout/2043937388
-"March 4, 2017","Feb. 25, 2017",Run,1340,11.7294,7017,9.97115,0,6.01736,0,,20151,,,http://www.mapmyrun.com/workout/2043937016
-"March 4, 2017","Feb. 21, 2017",Run,464,4.44374,2612,9.7892,0,6.12921,0,,7658,,,http://www.mapmyrun.com/workout/2043936578
+x,16-Sep-17,x,x,3.1,19.55,6.3,x,x,x,,x,,,http://www.mapmyrun.com/workout/2467538360
+x,6-Oct-17,x,x,3.11,1198,6.416666667,x,x,x,,x,,,http://www.mapmyrun.com/workout/2508593210
+x,14-Oct-17,x,x,3.09,1197,6.466666667,x,x,x,,x,,,http://www.mapmyrun.com/workout/2522643863
+11-Jun-17,11-Jun-17,Run,315,3.08999,1215,6.55,0,9.16031,0,,3626,,,http://www.mapmyrun.com/workout/2255711738
+11-Jun-17,6-Jun-17,Run,474,4.39972,2295,8.68039,0,6.91213,0,,6422,,,http://www.mapmyrun.com/workout/2255711588
+4-Jun-17,4-Jun-17,Run,1150,10.3903,5525,8.85228,0,6.77792,0,,15637,,,http://www.mapmyrun.com/workout/2240323469
+4-Jun-17,1-Jun-17,Run,578,5.51763,2791,8.43472,0,7.11346,0,,7982,,,http://www.mapmyrun.com/workout/2240323232
+1-Jun-17,30-May-17,Run,386,3.82619,1662,7.2493,0,8.27666,0,,4906,,,http://www.mapmyrun.com/workout/2232337313
+1-Jun-17,28-May-17,Run,1242,10.9925,6347,9.61376,0,6.24105,0,,17625,,,http://www.mapmyrun.com/workout/2232337301
+1-Jun-17,25-May-17,Run,558,5.07759,3472,11.4138,0,5.2568,0,,8134,,,http://www.mapmyrun.com/workout/2232336710
+1-Jun-17,23-May-17,Run,503,4.9042,2944,10.0084,0,5.99499,0,,6781,,,http://www.mapmyrun.com/workout/2232336389
+16-May-17,13-May-17,Run,1074,9.38878,5893,10.4775,0,5.72656,0,,16366,,,http://www.mapmyrun.com/workout/2198091713
+11-May-17,11-May-17,Run,491,4.74587,2797,9.82506,0,6.10684,0,,7311,,,http://www.mapmyrun.com/workout/2186353397
+11-May-17,9-May-17,Run,591,5.91455,3682,10.3561,0,5.79366,0,,8335,,,http://www.mapmyrun.com/workout/2186353250
+6-May-17,6-May-17,Run,1366,13.27,5745,7.21667,0,8.31409,0,,17005,,,http://www.mapmyrun.com/workout/2174257553
+2-May-17,2-May-17,Run,514,5.11198,2903,9.47788,0,6.33053,0,,6901,,,http://www.mapmyrun.com/workout/2165710046
+2-May-17,2-May-17,Run,118,1.09246,613,9.34578,0,6.42001,0,,1618,,,http://www.mapmyrun.com/workout/2165709698
+30-Apr-17,30-Apr-17,Run,928,8.22007,4797,9.71826,0,6.17394,0,,13410,,,http://www.mapmyrun.com/workout/2161371761
+30-Apr-17,27-Apr-17,Run,479,4.54431,2270,8.32994,0,7.20293,0,,6700,,,http://www.mapmyrun.com/workout/2161371350
+30-Apr-17,27-Apr-17,Run,101,0.864439,479,9.2491,0,6.48712,0,,1476,,,http://www.mapmyrun.com/workout/2161371188
+30-Apr-17,25-Apr-17,Run,463,4.54952,2564,9.37846,0,6.39764,0,,6575,,,http://www.mapmyrun.com/workout/2161371212
+30-Apr-17,23-Apr-17,Run,1160,10.2613,6386,10.3561,0,5.79366,0,,18005,,,http://www.mapmyrun.com/workout/2161371071
+30-Apr-17,21-Apr-17,Run,472,4.17416,2303,9.18575,0,6.53185,0,,6797,,,http://www.mapmyrun.com/workout/2161370696
+30-Apr-17,18-Apr-17,Run,513,5.06872,2954,9.71826,0,6.17394,0,,7395,,,http://www.mapmyrun.com/workout/2161370594
+15-Apr-17,15-Apr-17,Run,1163,10.3578,6035,9.71826,0,6.17394,0,,16902,,,http://www.mapmyrun.com/workout/2128716644
+9-Apr-17,9-Apr-17,Run,1610,12.99,5848,7.5,0,8,0,,17219,,,http://www.mapmyrun.com/workout/2114720576
+9-Apr-17,4-Apr-17,Run,511,5.06483,2972,9.7892,0,6.12921,0,,7148,,,http://www.mapmyrun.com/workout/2114720003
+9-Apr-17,4-Apr-17,Run,109,1.09542,606,9.21732,0,6.50948,0,,1729,,,http://www.mapmyrun.com/workout/2114719613
+2-Apr-17,2-Apr-17,Run,928,8.1872,4939,10.0458,0,5.97262,0,,13777,,,http://www.mapmyrun.com/workout/2100897125
+2-Apr-17,28-Mar-17,Run,403,3.92321,2354,10.0084,0,5.99499,0,,5531,,,http://www.mapmyrun.com/workout/2100897014
+2-Apr-17,28-Mar-17,Run,118,1.10627,709,10.6862,0,5.61471,0,,1641,,,http://www.mapmyrun.com/workout/2100896933
+26-Mar-17,26-Mar-17,Run,1185,10.4769,6563,10.4367,0,5.74893,0,,18170,,,http://www.mapmyrun.com/workout/2086076435
+26-Mar-17,21-Mar-17,Run,514,5.05701,2878,9.47788,0,6.33053,0,,6960,,,http://www.mapmyrun.com/workout/2085572312
+26-Mar-17,21-Mar-17,Run,126,1.12852,858,12.6521,0,4.7423,0,,1895,,,http://www.mapmyrun.com/workout/2085572060
+18-Mar-17,18-Mar-17,Run,1208,10.5721,6987,10.9928,0,5.45812,0,,19438,,,http://www.mapmyrun.com/workout/2070093146
+18-Mar-17,16-Mar-17,Run,438,3.98229,2196,9.18575,0,6.53185,0,,6420,,,http://www.mapmyrun.com/workout/2070092804
+18-Mar-17,14-Mar-17,Run,417,4.0312,2167,8.9707,0,6.68844,0,,5615,,,http://www.mapmyrun.com/workout/2070092693
+18-Mar-17,14-Mar-17,Run,88,0.80485,440,9.12327,0,6.57659,0,,1294,,,http://www.mapmyrun.com/workout/2070092582
+18-Mar-17,12-Mar-17,Run,1271,11.0308,6933,10.4775,0,5.72656,0,,19574,,,http://www.mapmyrun.com/workout/2070092621
+9-Mar-17,9-Mar-17,Run,482,4.34867,2237,8.56946,0,7.00161,0,,6654,,,http://www.mapmyrun.com/workout/2054519741
+9-Mar-17,7-Mar-17,Run,533,5.09053,2775,9.09234,0,6.59896,0,,7019,,,http://www.mapmyrun.com/workout/2054519666
+9-Mar-17,7-Mar-17,Run,120,1.11843,610,9.09234,0,6.59896,0,,1700,,,http://www.mapmyrun.com/workout/2054519435
+4-Mar-17,4-Mar-17,Run,1370,13.09,6003,7.65,0,7.84314,0,,17825,,,http://www.mapmyrun.com/workout/2043937388
+4-Mar-17,"Feb. 25, 2017",Run,1340,11.7294,7017,9.97115,0,6.01736,0,,20151,,,http://www.mapmyrun.com/workout/2043937016
+4-Mar-17,"Feb. 21, 2017",Run,464,4.44374,2612,9.7892,0,6.12921,0,,7658,,,http://www.mapmyrun.com/workout/2043936578
 "Feb. 19, 2017","Feb. 19, 2017",Run,857,7.49395,4845,10.772,0,5.56997,0,,13462,,,http://www.mapmyrun.com/workout/2019308708
 "Feb. 19, 2017","Feb. 19, 2017",Run,15,0.128674,171,22.1673,0,2.70669,0,,424,,,http://www.mapmyrun.com/workout/2019308501
 "Feb. 19, 2017","Feb. 19, 2017",Run,25,0.257695,171,11.038,0,5.43576,0,,446,,,http://www.mapmyrun.com/workout/2019308480
@@ -103,76 +106,76 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Aug. 7, 2016","Aug. 4, 2016",Run,487,4.31935,2591,10.0084,0,5.99499,0,,6893,,,http://www.mapmyrun.com/workout/1661586635
 "Aug. 3, 2016","Aug. 3, 2016",Run,459,4.33921,2448,9.41137,0,6.37527,0,,6367,,,http://www.mapmyrun.com/workout/1653278525
 "Aug. 3, 2016","Aug. 2, 2016",Run,588,5.4946,2817,8.54217,0,7.02398,0,,8032,,,http://www.mapmyrun.com/workout/1653278687
-"Aug. 3, 2016","July 30, 2016",Run,1158,10.3413,5837,9.41137,0,6.37527,0,,16575,,,http://www.mapmyrun.com/workout/1653279212
-"Aug. 3, 2016","July 28, 2016",Run,448,4.16413,2088,8.35589,0,7.18057,0,,6145,,,http://www.mapmyrun.com/workout/1653278174
-"July 23, 2016","July 23, 2016",Run,1158,10.4057,5375,8.59692,0,6.97924,0,,15577,,,http://www.mapmyrun.com/workout/1628402276
-"July 22, 2016","July 22, 2016",Run,434,4.20674,1828,7.2493,0,8.27666,0,,5597,,,http://www.mapmyrun.com/workout/1626270275
-"July 20, 2016","July 20, 2016",Run,359,3.10461,1751,9.41137,0,6.37527,0,,5112,,,http://www.mapmyrun.com/workout/1622085824
-"July 19, 2016","July 19, 2016",Run,404,3.92564,1691,7.17176,0,8.36614,0,,5211,,,http://www.mapmyrun.com/workout/1619256794
-"July 19, 2016","July 17, 2016",Run,1162,10.607,6059,9.51149,0,6.30816,0,,16307,,,http://www.mapmyrun.com/workout/1619258099
-"July 19, 2016","July 15, 2016",Run,518,4.82461,2583,8.9111,0,6.73318,0,,6928,,,http://www.mapmyrun.com/workout/1619257364
-"July 12, 2016","July 12, 2016",Run,471,4.41979,2193,8.27852,0,7.24767,0,,6514,,,http://www.mapmyrun.com/workout/1602837236
-"July 12, 2016","July 10, 2016",Run,1181,10.6572,5913,9.2491,0,6.48712,0,,15985,,,http://www.mapmyrun.com/workout/1602837869
-"July 8, 2016","July 8, 2016",Run,650,5.9948,3127,8.68039,0,6.91213,0,,8854,,,http://www.mapmyrun.com/workout/1593808313
-"July 8, 2016","July 2, 2016",Run,1194,10.8139,6027,9.28111,0,6.46475,0,,16458,,,http://www.mapmyrun.com/workout/1593809096
-"July 1, 2016","July 1, 2016",Run,505,4.71595,2800,9.89756,0,6.0621,0,,6806,,,http://www.mapmyrun.com/workout/1578262748
-"July 1, 2016","June 29, 2016",Run,483,4.43137,2297,8.65239,0,6.9345,0,,6610,,,http://www.mapmyrun.com/workout/1578262460
-"July 1, 2016","June 28, 2016",Run,556,5.10159,2960,9.68318,0,6.19631,0,,8360,,,http://www.mapmyrun.com/workout/1578262919
-"June 26, 2016","June 26, 2016",Run,1149,10.5475,5285,8.35589,0,7.18057,0,,15374,,,http://www.mapmyrun.com/workout/1566218462
-"June 26, 2016","June 21, 2016",Run,718,6.60611,3392,8.56946,0,7.00161,0,,9939,,,http://www.mapmyrun.com/workout/1566218273
-"June 26, 2016","June 19, 2016",Run,1736,15.6829,9665,10.2768,0,5.8384,0,,25378,,,http://www.mapmyrun.com/workout/1566219134
-"June 17, 2016","June 17, 2016",Run,448,4.04905,2294,9.44451,0,6.3529,0,,6638,,,http://www.mapmyrun.com/workout/1546174907
-"June 17, 2016","June 14, 2016",Run,648,5.92487,3236,9.09234,0,6.59896,0,,9164,,,http://www.mapmyrun.com/workout/1546175096
-"June 11, 2016","June 11, 2016",Run,1328,13.16,5761,7.29042,0,8.22998,0,0,17447,,,http://www.mapmyrun.com/workout/1531633214
-"June 9, 2016","June 7, 2016",Run,676,6.09562,3403,9.31333,0,6.44238,0,,9794,,,http://www.mapmyrun.com/workout/1526435639
-"June 9, 2016","June 6, 2016",Run,492,4.44016,2552,9.57943,0,6.26342,0,,7376,,,http://www.mapmyrun.com/workout/1526435120
-"June 9, 2016","June 5, 2016",Run,1112,9.99811,6241,10.3963,0,5.7713,0,,16216,,,http://www.mapmyrun.com/workout/1526437265
-"June 5, 2016","June 4, 2016",Run,434,4.06715,2217,9.09234,0,6.59896,0,,6347,,,http://www.mapmyrun.com/workout/1516724696
-"June 5, 2016","June 3, 2016",Run,825,7.60333,4270,9.34578,0,6.42001,0,,11956,,,http://www.mapmyrun.com/workout/1516725419
-"June 5, 2016","June 1, 2016",Run,474,4.27108,2278,8.88159,0,6.75555,0,,6875,,,http://www.mapmyrun.com/workout/1516725146
-"May 30, 2016","May 30, 2016",Run,620,5.67767,3093,9.09234,0,6.59896,0,,9171,,,http://www.mapmyrun.com/workout/1502981132
-"May 30, 2016","May 29, 2016",Run,878,7.85946,4734,10.0458,0,5.97262,0,,13200,,,http://www.mapmyrun.com/workout/1502981678
-"May 22, 2016","May 21, 2016",Run,1188,10.9698,6349,9.64834,0,6.21868,0,,17685,,,http://www.mapmyrun.com/workout/1486302705
-"May 22, 2016","May 19, 2016",Run,469,4.33412,2168,8.32994,0,7.20293,0,,6354,,,http://www.mapmyrun.com/workout/1486301827
-"May 22, 2016","May 18, 2016",Run,438,4.01624,2120,8.79423,0,6.82266,0,,6125,,,http://www.mapmyrun.com/workout/1486301531
-"May 22, 2016","May 17, 2016",Run,585,5.31124,2765,8.68039,0,6.91213,0,,7966,,,http://www.mapmyrun.com/workout/1486301953
-"May 22, 2016","May 15, 2016",Run,1305,11.7777,7204,10.1986,0,5.88314,0,,18901,,,http://www.mapmyrun.com/workout/1486303415
-"May 10, 2016","May 10, 2016",Run,97,0.980039,364,6.19455,0,9.68593,0,,1171,,,http://www.mapmyrun.com/workout/1468061425
-"May 10, 2016","May 10, 2016",Run,230,2.12131,1204,9.44451,0,6.3529,0,,2994,,,http://www.mapmyrun.com/workout/1468061409
-"May 10, 2016","May 10, 2016",Run,102,0.992572,400,6.72241,0,8.92538,0,,1272,,,http://www.mapmyrun.com/workout/1468061299
-"May 10, 2016","May 10, 2016",Run,101,1.00532,356,5.90802,0,10.1557,0,,1152,,,http://www.mapmyrun.com/workout/1468061285
-"May 7, 2016","May 7, 2016",Run,1352,13.1765,5707,7.21032,0,8.3214,0,,17288,,,http://www.mapmyrun.com/workout/1462996013
-"May 7, 2016","May 3, 2016",Run,418,4.12604,1746,7.05853,0,8.50036,0,,5230,,,http://www.mapmyrun.com/workout/1462995615
-"May 2, 2016","May 1, 2016",Run,1273,11.7628,5975,8.46132,0,7.09109,0,,17129,,,http://www.mapmyrun.com/workout/1455610311
-"April 28, 2016","April 28, 2016",Run,589,5.58752,2678,7.98286,0,7.51611,0,,7987,,,http://www.mapmyrun.com/workout/1450187303
-"April 28, 2016","April 28, 2016",Run,113,1.03154,651,10.5186,0,5.70419,0,,1593,,,http://www.mapmyrun.com/workout/1450187035
-"April 28, 2016","April 25, 2016",Run,476,4.42542,2279,8.56946,0,7.00161,0,,6693,,,http://www.mapmyrun.com/workout/1450187077
-"April 28, 2016","April 23, 2016",Run,1328,11.9509,7345,10.2376,0,5.86077,0,,19520,,,http://www.mapmyrun.com/workout/1450187635
-"April 28, 2016","April 21, 2016",Run,584,5.52351,3124,9.41137,0,6.37527,0,,8118,,,http://www.mapmyrun.com/workout/1450187427
-"April 20, 2016","April 19, 2016",Run,417,4.06197,2574,10.56,0,5.68182,0,,5853,,,http://www.mapmyrun.com/workout/1437877515
-"April 20, 2016","April 19, 2016",Run,227,2.16254,1214,9.34578,0,6.42001,0,,3158,,,http://www.mapmyrun.com/workout/1437877255
-"April 17, 2016","April 17, 2016",Run,1352,12.1568,7319,10.0458,0,5.97262,0,,20297,,,http://www.mapmyrun.com/workout/1432666689
-"April 17, 2016","April 14, 2016",Run,441,4.00454,2148,8.9408,0,6.71081,0,,6276,,,http://www.mapmyrun.com/workout/1432666477
-"April 17, 2016","April 12, 2016",Run,510,5.05748,3155,10.3963,0,5.7713,0,,7065,,,http://www.mapmyrun.com/workout/1432666557
-"April 17, 2016","April 12, 2016",Run,114,1.09208,600,9.1544,0,6.55422,0,,1714,,,http://www.mapmyrun.com/workout/1432666435
-"April 10, 2016","April 10, 2016",Run,1607,13.1,5821,7.472,0,8.02998,0,0,17750,,,http://www.mapmyrun.com/workout/1422119451
-"April 10, 2016","April 6, 2016",Run,431,3.98677,2246,9.37846,0,6.39764,0,,6454,,,http://www.mapmyrun.com/workout/1422118385
-"April 10, 2016","April 5, 2016",Run,594,5.81064,3666,10.5186,0,5.70419,0,,8517,,,http://www.mapmyrun.com/workout/1422118919
-"April 10, 2016","April 3, 2016",Run,1340,12.1062,6980,9.61376,0,6.24105,0,,19907,,,http://www.mapmyrun.com/workout/1422120117
-"April 10, 2016","March 29, 2016",Run,634,6.00929,3506,9.71826,0,6.17394,0,,8249,,,http://www.mapmyrun.com/workout/1422118747
-"April 10, 2016","March 27, 2016",Run,1328,11.8965,7601,10.6438,0,5.63708,0,,20268,,,http://www.mapmyrun.com/workout/1422120887
-"April 10, 2016","March 26, 2016",Run,450,4.11692,2239,9.06162,0,6.62133,0,,6482,,,http://www.mapmyrun.com/workout/1422118291
-"April 10, 2016","March 23, 2016",Run,553,5.38161,2449,7.57695,0,7.91875,0,,7329,,,http://www.mapmyrun.com/workout/1422118495
-"April 10, 2016","March 20, 2016",Run,1291,11.7636,6332,8.9707,0,6.68844,0,,18323,,,http://www.mapmyrun.com/workout/1422119645
-"April 10, 2016","March 13, 2016",Run,1337,12.022,7487,10.3963,0,5.7713,0,,19945,,,http://www.mapmyrun.com/workout/1422120433
-"April 10, 2016","March 11, 2016",Run,435,4.10971,1956,7.93562,0,7.56084,0,,6047,,,http://www.mapmyrun.com/workout/1422117977
-"April 10, 2016","March 9, 2016",Run,458,4.40568,2083,7.88894,0,7.60558,0,,6169,,,http://www.mapmyrun.com/workout/1422118195
-"April 10, 2016","March 8, 2016",Run,646,6.22464,4257,11.4138,0,5.2568,0,,9035,,,http://www.mapmyrun.com/workout/1422119095
-"March 5, 2016","March 5, 2016",Run,1588,13.08,5695,7.24639,0,8.27998,0,0,17377,,,http://www.mapmyrun.com/workout/1371548157
-"March 4, 2016","March 1, 2016",Run,616,6.04995,3722,10.2376,0,5.86077,0,,8867,,,http://www.mapmyrun.com/workout/1370794675
-"March 4, 2016","Feb. 29, 2016",Run,468,4.16193,2426,9.71826,0,6.17394,0,,7054,,,http://www.mapmyrun.com/workout/1370794543
-"March 4, 2016","Feb. 25, 2016",Run,493,4.68029,3065,10.9034,0,5.50286,0,,7091,,,http://www.mapmyrun.com/workout/1370794607
-"March 4, 2016","Feb. 25, 2016",Run,112,1.07135,619,9.61376,0,6.24105,0,,1653,,,http://www.mapmyrun.com/workout/1370794499
+"Aug. 3, 2016",30-Jul-16,Run,1158,10.3413,5837,9.41137,0,6.37527,0,,16575,,,http://www.mapmyrun.com/workout/1653279212
+"Aug. 3, 2016",28-Jul-16,Run,448,4.16413,2088,8.35589,0,7.18057,0,,6145,,,http://www.mapmyrun.com/workout/1653278174
+23-Jul-16,23-Jul-16,Run,1158,10.4057,5375,8.59692,0,6.97924,0,,15577,,,http://www.mapmyrun.com/workout/1628402276
+22-Jul-16,22-Jul-16,Run,434,4.20674,1828,7.2493,0,8.27666,0,,5597,,,http://www.mapmyrun.com/workout/1626270275
+20-Jul-16,20-Jul-16,Run,359,3.10461,1751,9.41137,0,6.37527,0,,5112,,,http://www.mapmyrun.com/workout/1622085824
+19-Jul-16,19-Jul-16,Run,404,3.92564,1691,7.17176,0,8.36614,0,,5211,,,http://www.mapmyrun.com/workout/1619256794
+19-Jul-16,17-Jul-16,Run,1162,10.607,6059,9.51149,0,6.30816,0,,16307,,,http://www.mapmyrun.com/workout/1619258099
+19-Jul-16,15-Jul-16,Run,518,4.82461,2583,8.9111,0,6.73318,0,,6928,,,http://www.mapmyrun.com/workout/1619257364
+12-Jul-16,12-Jul-16,Run,471,4.41979,2193,8.27852,0,7.24767,0,,6514,,,http://www.mapmyrun.com/workout/1602837236
+12-Jul-16,10-Jul-16,Run,1181,10.6572,5913,9.2491,0,6.48712,0,,15985,,,http://www.mapmyrun.com/workout/1602837869
+8-Jul-16,8-Jul-16,Run,650,5.9948,3127,8.68039,0,6.91213,0,,8854,,,http://www.mapmyrun.com/workout/1593808313
+8-Jul-16,2-Jul-16,Run,1194,10.8139,6027,9.28111,0,6.46475,0,,16458,,,http://www.mapmyrun.com/workout/1593809096
+1-Jul-16,1-Jul-16,Run,505,4.71595,2800,9.89756,0,6.0621,0,,6806,,,http://www.mapmyrun.com/workout/1578262748
+1-Jul-16,29-Jun-16,Run,483,4.43137,2297,8.65239,0,6.9345,0,,6610,,,http://www.mapmyrun.com/workout/1578262460
+1-Jul-16,28-Jun-16,Run,556,5.10159,2960,9.68318,0,6.19631,0,,8360,,,http://www.mapmyrun.com/workout/1578262919
+26-Jun-16,26-Jun-16,Run,1149,10.5475,5285,8.35589,0,7.18057,0,,15374,,,http://www.mapmyrun.com/workout/1566218462
+26-Jun-16,21-Jun-16,Run,718,6.60611,3392,8.56946,0,7.00161,0,,9939,,,http://www.mapmyrun.com/workout/1566218273
+26-Jun-16,19-Jun-16,Run,1736,15.6829,9665,10.2768,0,5.8384,0,,25378,,,http://www.mapmyrun.com/workout/1566219134
+17-Jun-16,17-Jun-16,Run,448,4.04905,2294,9.44451,0,6.3529,0,,6638,,,http://www.mapmyrun.com/workout/1546174907
+17-Jun-16,14-Jun-16,Run,648,5.92487,3236,9.09234,0,6.59896,0,,9164,,,http://www.mapmyrun.com/workout/1546175096
+11-Jun-16,11-Jun-16,Run,1328,13.16,5761,7.29042,0,8.22998,0,0,17447,,,http://www.mapmyrun.com/workout/1531633214
+9-Jun-16,7-Jun-16,Run,676,6.09562,3403,9.31333,0,6.44238,0,,9794,,,http://www.mapmyrun.com/workout/1526435639
+9-Jun-16,6-Jun-16,Run,492,4.44016,2552,9.57943,0,6.26342,0,,7376,,,http://www.mapmyrun.com/workout/1526435120
+9-Jun-16,5-Jun-16,Run,1112,9.99811,6241,10.3963,0,5.7713,0,,16216,,,http://www.mapmyrun.com/workout/1526437265
+5-Jun-16,4-Jun-16,Run,434,4.06715,2217,9.09234,0,6.59896,0,,6347,,,http://www.mapmyrun.com/workout/1516724696
+5-Jun-16,3-Jun-16,Run,825,7.60333,4270,9.34578,0,6.42001,0,,11956,,,http://www.mapmyrun.com/workout/1516725419
+5-Jun-16,1-Jun-16,Run,474,4.27108,2278,8.88159,0,6.75555,0,,6875,,,http://www.mapmyrun.com/workout/1516725146
+30-May-16,30-May-16,Run,620,5.67767,3093,9.09234,0,6.59896,0,,9171,,,http://www.mapmyrun.com/workout/1502981132
+30-May-16,29-May-16,Run,878,7.85946,4734,10.0458,0,5.97262,0,,13200,,,http://www.mapmyrun.com/workout/1502981678
+22-May-16,21-May-16,Run,1188,10.9698,6349,9.64834,0,6.21868,0,,17685,,,http://www.mapmyrun.com/workout/1486302705
+22-May-16,19-May-16,Run,469,4.33412,2168,8.32994,0,7.20293,0,,6354,,,http://www.mapmyrun.com/workout/1486301827
+22-May-16,18-May-16,Run,438,4.01624,2120,8.79423,0,6.82266,0,,6125,,,http://www.mapmyrun.com/workout/1486301531
+22-May-16,17-May-16,Run,585,5.31124,2765,8.68039,0,6.91213,0,,7966,,,http://www.mapmyrun.com/workout/1486301953
+22-May-16,15-May-16,Run,1305,11.7777,7204,10.1986,0,5.88314,0,,18901,,,http://www.mapmyrun.com/workout/1486303415
+10-May-16,10-May-16,Run,97,0.980039,364,6.19455,0,9.68593,0,,1171,,,http://www.mapmyrun.com/workout/1468061425
+10-May-16,10-May-16,Run,230,2.12131,1204,9.44451,0,6.3529,0,,2994,,,http://www.mapmyrun.com/workout/1468061409
+10-May-16,10-May-16,Run,102,0.992572,400,6.72241,0,8.92538,0,,1272,,,http://www.mapmyrun.com/workout/1468061299
+10-May-16,10-May-16,Run,101,1.00532,356,5.90802,0,10.1557,0,,1152,,,http://www.mapmyrun.com/workout/1468061285
+7-May-16,7-May-16,Run,1352,13.1765,5707,7.21032,0,8.3214,0,,17288,,,http://www.mapmyrun.com/workout/1462996013
+7-May-16,3-May-16,Run,418,4.12604,1746,7.05853,0,8.50036,0,,5230,,,http://www.mapmyrun.com/workout/1462995615
+2-May-16,1-May-16,Run,1273,11.7628,5975,8.46132,0,7.09109,0,,17129,,,http://www.mapmyrun.com/workout/1455610311
+28-Apr-16,28-Apr-16,Run,589,5.58752,2678,7.98286,0,7.51611,0,,7987,,,http://www.mapmyrun.com/workout/1450187303
+28-Apr-16,28-Apr-16,Run,113,1.03154,651,10.5186,0,5.70419,0,,1593,,,http://www.mapmyrun.com/workout/1450187035
+28-Apr-16,25-Apr-16,Run,476,4.42542,2279,8.56946,0,7.00161,0,,6693,,,http://www.mapmyrun.com/workout/1450187077
+28-Apr-16,23-Apr-16,Run,1328,11.9509,7345,10.2376,0,5.86077,0,,19520,,,http://www.mapmyrun.com/workout/1450187635
+28-Apr-16,21-Apr-16,Run,584,5.52351,3124,9.41137,0,6.37527,0,,8118,,,http://www.mapmyrun.com/workout/1450187427
+20-Apr-16,19-Apr-16,Run,417,4.06197,2574,10.56,0,5.68182,0,,5853,,,http://www.mapmyrun.com/workout/1437877515
+20-Apr-16,19-Apr-16,Run,227,2.16254,1214,9.34578,0,6.42001,0,,3158,,,http://www.mapmyrun.com/workout/1437877255
+17-Apr-16,17-Apr-16,Run,1352,12.1568,7319,10.0458,0,5.97262,0,,20297,,,http://www.mapmyrun.com/workout/1432666689
+17-Apr-16,14-Apr-16,Run,441,4.00454,2148,8.9408,0,6.71081,0,,6276,,,http://www.mapmyrun.com/workout/1432666477
+17-Apr-16,12-Apr-16,Run,510,5.05748,3155,10.3963,0,5.7713,0,,7065,,,http://www.mapmyrun.com/workout/1432666557
+17-Apr-16,12-Apr-16,Run,114,1.09208,600,9.1544,0,6.55422,0,,1714,,,http://www.mapmyrun.com/workout/1432666435
+10-Apr-16,10-Apr-16,Run,1607,13.1,5821,7.472,0,8.02998,0,0,17750,,,http://www.mapmyrun.com/workout/1422119451
+10-Apr-16,6-Apr-16,Run,431,3.98677,2246,9.37846,0,6.39764,0,,6454,,,http://www.mapmyrun.com/workout/1422118385
+10-Apr-16,5-Apr-16,Run,594,5.81064,3666,10.5186,0,5.70419,0,,8517,,,http://www.mapmyrun.com/workout/1422118919
+10-Apr-16,3-Apr-16,Run,1340,12.1062,6980,9.61376,0,6.24105,0,,19907,,,http://www.mapmyrun.com/workout/1422120117
+10-Apr-16,29-Mar-16,Run,634,6.00929,3506,9.71826,0,6.17394,0,,8249,,,http://www.mapmyrun.com/workout/1422118747
+10-Apr-16,27-Mar-16,Run,1328,11.8965,7601,10.6438,0,5.63708,0,,20268,,,http://www.mapmyrun.com/workout/1422120887
+10-Apr-16,26-Mar-16,Run,450,4.11692,2239,9.06162,0,6.62133,0,,6482,,,http://www.mapmyrun.com/workout/1422118291
+10-Apr-16,23-Mar-16,Run,553,5.38161,2449,7.57695,0,7.91875,0,,7329,,,http://www.mapmyrun.com/workout/1422118495
+10-Apr-16,20-Mar-16,Run,1291,11.7636,6332,8.9707,0,6.68844,0,,18323,,,http://www.mapmyrun.com/workout/1422119645
+10-Apr-16,13-Mar-16,Run,1337,12.022,7487,10.3963,0,5.7713,0,,19945,,,http://www.mapmyrun.com/workout/1422120433
+10-Apr-16,11-Mar-16,Run,435,4.10971,1956,7.93562,0,7.56084,0,,6047,,,http://www.mapmyrun.com/workout/1422117977
+10-Apr-16,9-Mar-16,Run,458,4.40568,2083,7.88894,0,7.60558,0,,6169,,,http://www.mapmyrun.com/workout/1422118195
+10-Apr-16,8-Mar-16,Run,646,6.22464,4257,11.4138,0,5.2568,0,,9035,,,http://www.mapmyrun.com/workout/1422119095
+5-Mar-16,5-Mar-16,Run,1588,13.08,5695,7.24639,0,8.27998,0,0,17377,,,http://www.mapmyrun.com/workout/1371548157
+4-Mar-16,1-Mar-16,Run,616,6.04995,3722,10.2376,0,5.86077,0,,8867,,,http://www.mapmyrun.com/workout/1370794675
+4-Mar-16,"Feb. 29, 2016",Run,468,4.16193,2426,9.71826,0,6.17394,0,,7054,,,http://www.mapmyrun.com/workout/1370794543
+4-Mar-16,"Feb. 25, 2016",Run,493,4.68029,3065,10.9034,0,5.50286,0,,7091,,,http://www.mapmyrun.com/workout/1370794607
+4-Mar-16,"Feb. 25, 2016",Run,112,1.07135,619,9.61376,0,6.24105,0,,1653,,,http://www.mapmyrun.com/workout/1370794499
 "Feb. 25, 2016","Feb. 21, 2016",Run,898,8.08867,4958,10.1986,0,5.88314,0,,13200,,,http://www.mapmyrun.com/workout/1359878615
 "Feb. 25, 2016","Feb. 18, 2016",Run,448,4.36145,1969,7.53438,0,7.96349,0,,5834,,,http://www.mapmyrun.com/workout/1359878247
 "Feb. 25, 2016","Feb. 15, 2016",Run,427,4.10345,1925,7.81994,0,7.67269,0,,5895,,,http://www.mapmyrun.com/workout/1359878119
@@ -205,7 +208,7 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Oct. 18, 2015","Oct. 16, 2015",Run,478,4.31833,2452,9.47788,0,6.33053,0,,7032,,,http://www.mapmyrun.com/workout/1216499099
 "Oct. 18, 2015","Oct. 15, 2015",Run,1345,11.7713,7498,10.6017,0,5.65945,0,,20433,,,http://www.mapmyrun.com/workout/1216499627
 "Oct. 18, 2015","Oct. 14, 2015",Run,446,4.00466,2334,9.71826,0,6.17394,0,,6787,,,http://www.mapmyrun.com/workout/1216498793
-"Oct. 11, 2015","Oct. 11, 2015",Run,1607,13.1041,5987,7.61466513025,0,7.87953232003,0,,0,,,http://www.mapmyrun.com/workout/1207192289
+"Oct. 11, 2015","Oct. 11, 2015",Run,1607,13.1041,5987,7.61466513,0,7.87953232,0,,0,,,http://www.mapmyrun.com/workout/1207192289
 "Oct. 9, 2015","Oct. 4, 2015",Run,1358,12.1377,8270,11.3654,0,5.27917,0,,20446,,,http://www.mapmyrun.com/workout/1204716145
 "Oct. 9, 2015","Oct. 2, 2015",Run,446,4.05256,2317,9.54534,0,6.28579,0,,6689,,,http://www.mapmyrun.com/workout/1204715907
 "Sept. 30, 2015","Sept. 29, 2015",Run,653,6.26592,3746,9.97115,0,6.01736,0,,9149,,,http://www.mapmyrun.com/workout/1192758661
@@ -228,77 +231,77 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Aug. 16, 2015","Aug. 16, 2015",Run,186,1.75885,2619,24.8356,0,2.41589,0,,4282,,,http://www.mapmyrun.com/workout/1124062071
 "Aug. 14, 2015","Aug. 14, 2015",Run,538,4.54186,2180,7.99952,5.83603,7.50045,10.281,,10197,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1121098027
 "Aug. 12, 2015","Aug. 12, 2015",Run,495,4.14,2198,8.85,0,6.78,0,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1118222345
-"Aug. 12, 2015","Aug. 9, 2015",Run,1437,12.0,8013,11.1296,7.47559,5.39102,8.02613,,26943,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1118222127
-"Aug. 2, 2015","July 31, 2015",Run,503,4.41068,2752,10.3963,8.15518,5.7713,7.35728,,9903,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1101807737
-"July 29, 2015","July 28, 2015",Run,713,5.97678,3468,9.66921,5.94732,6.20526,10.0886,,13419,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094917381
-"July 29, 2015","July 26, 2015",Run,1403,11.7361,7121,10.114,0.533174,5.93235,112.534,,26350,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094917237
-"July 29, 2015","July 24, 2015",Run,591,4.93177,2614,8.83478,5.64563,6.79134,10.6277,,11073,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094917093
-"July 29, 2015","July 19, 2015",Run,1409,11.7499,7251,10.2847,1.07315,5.83393,55.91,,26381,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094916759
-"July 29, 2015","July 14, 2015",Run,524,4.34279,2388,9.16378,3.2165,6.54751,18.6538,,9750,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094916519
-"July 10, 2015","July 10, 2015",Run,530,4.39091,2308,8.76263,1.59534,6.84726,37.6096,,9859,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1067312137
-"June 21, 2015","June 21, 2015",Run,1791,15.0422,8967,9.93422,3.41339,6.03973,17.5778,,33773,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1039429865
-"June 14, 2015","June 13, 2015",Run,1539,12.53,5660,7.53,4.00155,7.97,14.9942,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1029170451
-"June 7, 2015","June 7, 2015",Run,1429,11.94,6421,8.96,5.6695,6.69,10.5829,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1019094457
-"June 4, 2015","June 4, 2015",Run,529,4.41,2425,9.16,7.10151,6.55,8.44891,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1014989241
-"June 4, 2015","June 3, 2015",Run,530,4.46688,2147,7.97448,6.33052,7.524,9.4779,,10029,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1014989209
-"June 2, 2015","June 2, 2015",Run,507,4.26515,2026,7.79042,5.92891,7.70177,10.1199,,9576,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1011723393
-"June 2, 2015","May 31, 2015",Run,1440,11.95,6791,9.47,5.66471,6.33,10.5919,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1010923431
-"May 28, 2015","May 27, 2015",Run,325,4.33,2005,7.72,0,7.77,0,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1005046695
-"May 26, 2015","May 26, 2015",Run,518,4.3346,2017,7.65153,4.34441,7.84156,13.8108,,9732,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1002050371
-"May 26, 2015","May 24, 2015",Run,1381,11.6018,6774,9.61086,6.85294,6.24294,8.75537,,26048,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1002050361
-"May 24, 2015","May 22, 2015",Run,496,4.20001,2252,8.89455,5.19713,6.7457,11.5448,,9430,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/998775521
-"May 24, 2015","May 21, 2015",Run,505,4.23885,2252,8.72499,7.13931,6.8768,8.40417,,9517,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/998775513
-"May 19, 2015","May 19, 2015",Run,647,5.45279,2710,8.14886,6.20602,7.363,9.66804,,12243,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/992529409
-"May 17, 2015","May 17, 2015",Run,1417,11.55,7221,10.42,5.1032,5.76,11.7573,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486763
-"May 17, 2015","May 13, 2015",Run,0,0,1885,0,0,0,0,,,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486719
-"May 17, 2015","May 12, 2015",Run,494,4.15997,2232,8.47075,0.770936,7.0832,77.8275,,9340,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486721
-"May 17, 2015","May 11, 2015",Run,515,4.29097,2277,8.67668,4.76843,6.91509,12.5828,,9634,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486713
-"May 9, 2015","May 9, 2015",Run,758,8.16,2081,4.25,3.43481,14.12,17.4682,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/978480453
-"May 9, 2015","May 9, 2015",Run,959,8.0,4378,9.12,3.06857,6.58,19.5531,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/978480441
-"May 9, 2015","May 7, 2015",Run,514,4.37406,2046,7.45201,1.1377,8.05152,52.738,,9821,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/978480413
-"May 6, 2015","May 5, 2015",Run,996,8.31813,3881,7.73936,6.99046,7.75258,8.58312,,18676,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/974296417
-"May 6, 2015","May 4, 2015",Run,423,3.56017,1996,9.25484,5.47173,6.48309,10.9655,,7993,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/974296429
-"May 3, 2015","May 3, 2015",Run,484,3.99,1992,8.32,2.76263,7.21,21.7184,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/969978177
-"April 30, 2015","April 30, 2015",Run,454,3.74,1771,7.89,1.99364,7.6,30.0957,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/965709539
-"April 29, 2015","April 29, 2015",Run,513,4.28,1975,7.69,4.23869,7.8,14.1553,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/964518949
-"April 28, 2015","April 28, 2015",Run,523,4.39443,1830,6.94060435597,0,8.64478032787,0,,0,,,http://www.mapmyrun.com/workout/962854589
-"April 26, 2015","April 26, 2015",Run,1416,11.96,6536,9.11,1.87727,6.59,31.9613,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/959914387
-"April 25, 2015","April 25, 2015",Run,522,4.39521,2326,8.74357,6.51979,6.86218,9.20276,,9868,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/958410215
-"April 25, 2015","April 24, 2015",Run,625,5.26757,2728,8.54136,6.71736,7.02464,8.93209,,11827,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/958410213
-"April 22, 2015","April 22, 2015",Run,509,4.17,1950,7.79,0.658914,7.7,91.059,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/954839987
-"April 22, 2015","April 21, 2015",Run,706,5.92,3423,9.64,2.05899,6.23,29.1406,,0,,,http://www.mapmyrun.com/workout/954907467
-"April 19, 2015","April 19, 2015",Run,1425,11.9756,6758,9.1637,6.50555,6.54757,9.22289,,26888,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/950468251
-"April 19, 2015","April 16, 2015",Run,496,4.14948,1996,7.90522,5.64563,7.58992,10.6277,,9316,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/950468247
-"April 15, 2015","April 15, 2015",Run,531,4.36,1924,7.35,0,8.16,0,,0,,,http://www.mapmyrun.com/workout/944510015
-"April 14, 2015","April 14, 2015",Run,706,5.92,3423,9.64,2.05899,6.23,29.1406,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/943455537
-"April 14, 2015","April 13, 2015",Run,351,2.89762,1408,7.76305,2.55549,7.72892,23.4789,,6506,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/943455573
-"April 14, 2015","April 13, 2015",Run,150,1.28542,677,8.72268,7.30259,6.87862,8.21627,,2886,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/943455553
-"April 12, 2015","April 12, 2015",Run,1300,11.0024,6260,9.24879,5.92237,6.48733,10.1311,,24703,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/940522995
-"April 10, 2015","April 10, 2015",Run,496,4.17171,1832,7.25841,5.85642,8.26627,10.2452,,9366,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/937704249
-"April 9, 2015","April 9, 2015",Walk,0,0.75,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/936639909
-"April 10, 2015","April 8, 2015",Run,530,4.4935,2032,7.21847,0.930267,8.31201,64.4976,,10089,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/937704253
-"April 7, 2015","April 7, 2015",Run,742,6.27,3629,9.65,5.25106,6.22,11.4263,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/934011189
-"April 7, 2015","April 6, 2015",Run,840,7.0761,3710,8.66575,6.82851,6.92381,8.78669,,15887,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/934011213
-"April 5, 2015","April 5, 2015",Run,779,6.51963,3228,8.10961,6.16324,7.39863,9.73515,,14638,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223117
-"April 4, 2015","April 4, 2015",Run,892,7.29,3360,7.68,0,7.81,0,,0,,,http://www.mapmyrun.com/workout/929404749
-"April 5, 2015","April 1, 2015",Run,515,4.31892,2100,7.94728,5.87052,7.54975,10.2206,,9697,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223129
-"April 5, 2015","March 31, 2015",Run,525,4.40481,2063,7.19051,2.57117,8.34433,23.3357,,9890,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223143
-"April 5, 2015","March 30, 2015",Run,537,4.46653,2021,7.33768,4.48385,8.17697,13.3814,,10028,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223145
-"March 29, 2015","March 29, 2015",Run,1152,9.68208,5470,9.41467,2.43001,6.37303,24.6913,,21738,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376035
-"March 29, 2015","March 27, 2015",Run,528,4.47769,2042,7.60272,5.26342,7.89191,11.3994,,10053,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376061
-"March 29, 2015","March 26, 2015",Run,507,4.24871,1945,7.63084,4.79399,7.86283,12.5157,,9539,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376073
-"March 29, 2015","March 25, 2015",Run,386,3.24131,1434,7.37082,5.11098,8.14021,11.7394,,7277,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376085
-"March 24, 2015","March 24, 2015",Run,534,4.34,2521,9.68,4.69169,6.2,12.7886,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990299
-"March 24, 2015","March 23, 2015",Run,515,4.33996,1888,7.2493,4.58738,8.27666,13.0794,,9744,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990315
-"March 24, 2015","March 21, 2015",Run,586,4.89924,2432,8.27341,5.5985,7.25215,10.7172,,11000,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990333
-"March 24, 2015","March 20, 2015",Run,527,4.45164,2062,7.7209,4.33458,7.77112,13.8422,,9995,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990353
-"March 13, 2015","March 13, 2015",Run,492,4.15187,1867,7.49438,5.26549,8.00599,11.395,,9322,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/903537665
-"March 13, 2015","March 12, 2015",Run,534,4.49203,2034,7.54923,4.93967,7.94783,12.1466,,10086,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/903537677
-"March 13, 2015","March 10, 2015",Run,522,4.33748,1920,7.3769,5.30192,8.1335,11.3167,,9739,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/903537687
-"March 7, 2015","March 7, 2015",Run,1594,13.03,6028,7.71,5.812,7.78,10.3235,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/895720195
-"March 1, 2015","March 1, 2015",Run,1461,12.2124,7372,10.0609,4.60629,5.96367,13.0257,,27420,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/890049761
-"March 1, 2015","Feb. 22, 2015",Run,1225,10.3478,6159,9.91953,0.590386,6.04868,101.628,,23233,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/890049781
-"March 1, 2015","Feb. 21, 2015",Run,483,4.08402,2380,9.71122,6.24358,6.17842,9.60988,,9170,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/890049797
+"Aug. 12, 2015","Aug. 9, 2015",Run,1437,12,8013,11.1296,7.47559,5.39102,8.02613,,26943,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1118222127
+"Aug. 2, 2015",31-Jul-15,Run,503,4.41068,2752,10.3963,8.15518,5.7713,7.35728,,9903,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1101807737
+29-Jul-15,28-Jul-15,Run,713,5.97678,3468,9.66921,5.94732,6.20526,10.0886,,13419,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094917381
+29-Jul-15,26-Jul-15,Run,1403,11.7361,7121,10.114,0.533174,5.93235,112.534,,26350,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094917237
+29-Jul-15,24-Jul-15,Run,591,4.93177,2614,8.83478,5.64563,6.79134,10.6277,,11073,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094917093
+29-Jul-15,19-Jul-15,Run,1409,11.7499,7251,10.2847,1.07315,5.83393,55.91,,26381,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094916759
+29-Jul-15,14-Jul-15,Run,524,4.34279,2388,9.16378,3.2165,6.54751,18.6538,,9750,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1094916519
+10-Jul-15,10-Jul-15,Run,530,4.39091,2308,8.76263,1.59534,6.84726,37.6096,,9859,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1067312137
+21-Jun-15,21-Jun-15,Run,1791,15.0422,8967,9.93422,3.41339,6.03973,17.5778,,33773,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1039429865
+14-Jun-15,13-Jun-15,Run,1539,12.53,5660,7.53,4.00155,7.97,14.9942,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1029170451
+7-Jun-15,7-Jun-15,Run,1429,11.94,6421,8.96,5.6695,6.69,10.5829,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1019094457
+4-Jun-15,4-Jun-15,Run,529,4.41,2425,9.16,7.10151,6.55,8.44891,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1014989241
+4-Jun-15,3-Jun-15,Run,530,4.46688,2147,7.97448,6.33052,7.524,9.4779,,10029,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1014989209
+2-Jun-15,2-Jun-15,Run,507,4.26515,2026,7.79042,5.92891,7.70177,10.1199,,9576,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1011723393
+2-Jun-15,31-May-15,Run,1440,11.95,6791,9.47,5.66471,6.33,10.5919,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1010923431
+28-May-15,27-May-15,Run,325,4.33,2005,7.72,0,7.77,0,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1005046695
+26-May-15,26-May-15,Run,518,4.3346,2017,7.65153,4.34441,7.84156,13.8108,,9732,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1002050371
+26-May-15,24-May-15,Run,1381,11.6018,6774,9.61086,6.85294,6.24294,8.75537,,26048,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/1002050361
+24-May-15,22-May-15,Run,496,4.20001,2252,8.89455,5.19713,6.7457,11.5448,,9430,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/998775521
+24-May-15,21-May-15,Run,505,4.23885,2252,8.72499,7.13931,6.8768,8.40417,,9517,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/998775513
+19-May-15,19-May-15,Run,647,5.45279,2710,8.14886,6.20602,7.363,9.66804,,12243,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/992529409
+17-May-15,17-May-15,Run,1417,11.55,7221,10.42,5.1032,5.76,11.7573,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486763
+17-May-15,13-May-15,Run,0,0,1885,0,0,0,0,,,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486719
+17-May-15,12-May-15,Run,494,4.15997,2232,8.47075,0.770936,7.0832,77.8275,,9340,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486721
+17-May-15,11-May-15,Run,515,4.29097,2277,8.67668,4.76843,6.91509,12.5828,,9634,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/989486713
+9-May-15,9-May-15,Run,758,8.16,2081,4.25,3.43481,14.12,17.4682,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/978480453
+9-May-15,9-May-15,Run,959,8,4378,9.12,3.06857,6.58,19.5531,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/978480441
+9-May-15,7-May-15,Run,514,4.37406,2046,7.45201,1.1377,8.05152,52.738,,9821,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/978480413
+6-May-15,5-May-15,Run,996,8.31813,3881,7.73936,6.99046,7.75258,8.58312,,18676,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/974296417
+6-May-15,4-May-15,Run,423,3.56017,1996,9.25484,5.47173,6.48309,10.9655,,7993,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/974296429
+3-May-15,3-May-15,Run,484,3.99,1992,8.32,2.76263,7.21,21.7184,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/969978177
+30-Apr-15,30-Apr-15,Run,454,3.74,1771,7.89,1.99364,7.6,30.0957,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/965709539
+29-Apr-15,29-Apr-15,Run,513,4.28,1975,7.69,4.23869,7.8,14.1553,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/964518949
+28-Apr-15,28-Apr-15,Run,523,4.39443,1830,6.940604356,0,8.644780328,0,,0,,,http://www.mapmyrun.com/workout/962854589
+26-Apr-15,26-Apr-15,Run,1416,11.96,6536,9.11,1.87727,6.59,31.9613,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/959914387
+25-Apr-15,25-Apr-15,Run,522,4.39521,2326,8.74357,6.51979,6.86218,9.20276,,9868,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/958410215
+25-Apr-15,24-Apr-15,Run,625,5.26757,2728,8.54136,6.71736,7.02464,8.93209,,11827,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/958410213
+22-Apr-15,22-Apr-15,Run,509,4.17,1950,7.79,0.658914,7.7,91.059,,0,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/954839987
+22-Apr-15,21-Apr-15,Run,706,5.92,3423,9.64,2.05899,6.23,29.1406,,0,,,http://www.mapmyrun.com/workout/954907467
+19-Apr-15,19-Apr-15,Run,1425,11.9756,6758,9.1637,6.50555,6.54757,9.22289,,26888,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/950468251
+19-Apr-15,16-Apr-15,Run,496,4.14948,1996,7.90522,5.64563,7.58992,10.6277,,9316,,Garmin GARMIN FR10,http://www.mapmyrun.com/workout/950468247
+15-Apr-15,15-Apr-15,Run,531,4.36,1924,7.35,0,8.16,0,,0,,,http://www.mapmyrun.com/workout/944510015
+14-Apr-15,14-Apr-15,Run,706,5.92,3423,9.64,2.05899,6.23,29.1406,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/943455537
+14-Apr-15,13-Apr-15,Run,351,2.89762,1408,7.76305,2.55549,7.72892,23.4789,,6506,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/943455573
+14-Apr-15,13-Apr-15,Run,150,1.28542,677,8.72268,7.30259,6.87862,8.21627,,2886,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/943455553
+12-Apr-15,12-Apr-15,Run,1300,11.0024,6260,9.24879,5.92237,6.48733,10.1311,,24703,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/940522995
+10-Apr-15,10-Apr-15,Run,496,4.17171,1832,7.25841,5.85642,8.26627,10.2452,,9366,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/937704249
+9-Apr-15,9-Apr-15,Walk,0,0.75,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/936639909
+10-Apr-15,8-Apr-15,Run,530,4.4935,2032,7.21847,0.930267,8.31201,64.4976,,10089,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/937704253
+7-Apr-15,7-Apr-15,Run,742,6.27,3629,9.65,5.25106,6.22,11.4263,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/934011189
+7-Apr-15,6-Apr-15,Run,840,7.0761,3710,8.66575,6.82851,6.92381,8.78669,,15887,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/934011213
+5-Apr-15,5-Apr-15,Run,779,6.51963,3228,8.10961,6.16324,7.39863,9.73515,,14638,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223117
+4-Apr-15,4-Apr-15,Run,892,7.29,3360,7.68,0,7.81,0,,0,,,http://www.mapmyrun.com/workout/929404749
+5-Apr-15,1-Apr-15,Run,515,4.31892,2100,7.94728,5.87052,7.54975,10.2206,,9697,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223129
+5-Apr-15,31-Mar-15,Run,525,4.40481,2063,7.19051,2.57117,8.34433,23.3357,,9890,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223143
+5-Apr-15,30-Mar-15,Run,537,4.46653,2021,7.33768,4.48385,8.17697,13.3814,,10028,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/931223145
+29-Mar-15,29-Mar-15,Run,1152,9.68208,5470,9.41467,2.43001,6.37303,24.6913,,21738,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376035
+29-Mar-15,27-Mar-15,Run,528,4.47769,2042,7.60272,5.26342,7.89191,11.3994,,10053,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376061
+29-Mar-15,26-Mar-15,Run,507,4.24871,1945,7.63084,4.79399,7.86283,12.5157,,9539,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376073
+29-Mar-15,25-Mar-15,Run,386,3.24131,1434,7.37082,5.11098,8.14021,11.7394,,7277,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/922376085
+24-Mar-15,24-Mar-15,Run,534,4.34,2521,9.68,4.69169,6.2,12.7886,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990299
+24-Mar-15,23-Mar-15,Run,515,4.33996,1888,7.2493,4.58738,8.27666,13.0794,,9744,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990315
+24-Mar-15,21-Mar-15,Run,586,4.89924,2432,8.27341,5.5985,7.25215,10.7172,,11000,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990333
+24-Mar-15,20-Mar-15,Run,527,4.45164,2062,7.7209,4.33458,7.77112,13.8422,,9995,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/916990353
+13-Mar-15,13-Mar-15,Run,492,4.15187,1867,7.49438,5.26549,8.00599,11.395,,9322,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/903537665
+13-Mar-15,12-Mar-15,Run,534,4.49203,2034,7.54923,4.93967,7.94783,12.1466,,10086,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/903537677
+13-Mar-15,10-Mar-15,Run,522,4.33748,1920,7.3769,5.30192,8.1335,11.3167,,9739,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/903537687
+7-Mar-15,7-Mar-15,Run,1594,13.03,6028,7.71,5.812,7.78,10.3235,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/895720195
+1-Mar-15,1-Mar-15,Run,1461,12.2124,7372,10.0609,4.60629,5.96367,13.0257,,27420,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/890049761
+1-Mar-15,"Feb. 22, 2015",Run,1225,10.3478,6159,9.91953,0.590386,6.04868,101.628,,23233,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/890049781
+1-Mar-15,"Feb. 21, 2015",Run,483,4.08402,2380,9.71122,6.24358,6.17842,9.60988,,9170,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/890049797
 "Feb. 16, 2015","Feb. 15, 2015",Run,1368,11.3717,6565,9.62066,1.57159,6.23658,38.1778,,25532,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/877427851
 "Feb. 16, 2015","Feb. 12, 2015",Run,503,4.26929,2267,8.84936,5.79818,6.78015,10.3481,,9585,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/877427877
 "Feb. 16, 2015","Feb. 8, 2015",Run,1250,10.5173,6546,10.3722,3.15372,5.78472,19.0251,,23614,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/877427901
@@ -343,67 +346,67 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Aug. 10, 2014","Aug. 6, 2014",Run,0,0,1162,0,0,0,0,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/684851317
 "Aug. 10, 2014","Aug. 4, 2014",Run,0,0,1200,0,0,0,0,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/684851329
 "Aug. 10, 2014","Aug. 2, 2014",Run,943,8.00258,4297,8.94975,5.12955,6.7041,11.6969,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/684851357
-"Aug. 2, 2014","July 27, 2014",Run,959,8.04789,4109,8.50964,5.64207,7.05082,10.6344,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/672764147
-"July 20, 2014","July 19, 2014",Run,835,7.00379,4142,9.85755,2.89346,6.0867,20.7364,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186283
-"July 20, 2014","July 18, 2014",Run,576,4.8656,2631,9.0129,4.50569,6.65712,13.3165,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186295
-"July 20, 2014","July 17, 2014",Run,560,4.99012,2598,8.67758,0.99067,6.91437,60.565,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186323
-"July 20, 2014","July 16, 2014",Run,292,2.43703,1512,10.3362,7.5365,5.80485,7.96126,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186343
-"July 20, 2014","July 13, 2014",Run,921,7.75269,4622,9.9379,5.31137,6.03749,11.2965,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186369
-"July 20, 2014","July 10, 2014",Run,483,4.00036,1875,7.81083,5.25723,7.68164,11.4128,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186387
-"July 9, 2014","July 9, 2014",Run,530,4.54732,2455,8.99779,2.42189,6.66831,24.7741,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/640458095
-"July 9, 2014","July 7, 2014",Run,594,4.99271,2401,8.01386,5.77571,7.48703,10.3883,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/640458129
-"July 5, 2014","July 5, 2014",Run,1138,9.56636,5825,10.1485,5.93153,5.91222,10.1154,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/634853507
-"June 22, 2014","June 22, 2014",Run,643,5.32593,2580,8.07370731497,0,7.43153023256,0,,,,,http://www.mapmyrun.com/workout/617546357
-"June 22, 2014","June 21, 2014",Run,572,4.80362,2580,8.95158234831,0,6.7027255814,0,,,,,http://www.mapmyrun.com/workout/617537067
-"June 17, 2014","June 17, 2014",Run,595,4.95146,2459,8.2770199766,0,7.24898576657,0,,0,,,http://www.mapmyrun.com/workout/611252289
-"June 17, 2014","June 12, 2014",Run,676,5.54405,2541,7.63881999621,0,7.8546162928,0,,0,,,http://www.mapmyrun.com/workout/611250975
-"June 17, 2014","June 5, 2014",Run,525,4.31,1920,7.42,0,8.08,0,,0,,,http://www.mapmyrun.com/workout/611249309
-"June 3, 2014","June 1, 2014",Run,3133,26.17,13353,8.50401,0,7.05549,0,,0,,,http://www.mapmyrun.com/workout/593871831
-"May 28, 2014","May 28, 2014",Run,488,4.13041,2053,8.28363,6.90232,7.2432,8.69273,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/586941129
-"May 28, 2014","May 27, 2014",Run,539,4.52819,2296,8.448,7.06596,7.10227,8.49141,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/586941151
-"May 25, 2014","May 25, 2014",Run,1027,8.65631,3947,7.59841,5.78069,7.89639,10.3794,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140155
-"May 25, 2014","May 22, 2014",Run,509,4.30752,1902,7.35868,5.03802,8.15363,11.9094,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140163
-"May 25, 2014","May 21, 2014",Run,827,6.99835,3426,8.16015,5.70447,7.35281,10.5181,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140173
-"May 25, 2014","May 20, 2014",Run,121,1.47833,1534,17.3048,12.5221,3.46725,4.79152,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140175
-"May 20, 2014","May 20, 2014",Run,531,4.49481,2043,7.57481,5.0704,7.92099,11.8334,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/577283089
-"May 18, 2014","May 18, 2014",Run,1426,12.0011,6387,8.86984,6.26692,6.7645,9.57409,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/574579811
-"May 17, 2014","May 17, 2014",Run,473,4.00164,1763,7.34458,5.58567,8.16929,10.7418,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/573092509
-"May 15, 2014","May 15, 2014",Run,596,5.00605,2243,7.46518,4.5148,8.03731,13.2896,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/571422849
-"May 15, 2014","May 14, 2014",Run,217,2.41756,6205,42.7789,14.5221,1.40256,4.13162,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/571422861
-"May 13, 2014","May 13, 2014",Run,954,8.001,3939,8.20508,5.29878,7.31254,11.3234,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/568858749
-"May 13, 2014","May 12, 2014",Run,594,5.00826,2192,7.29464,5.57638,8.22521,10.7597,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/568858963
-"May 10, 2014","May 10, 2014",Run,2376,20.0018,12077,10.0647,0.716889,5.96144,83.695,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/565553029
-"May 8, 2014","May 8, 2014",Run,1190,9.99881,5514,9.19205,3.70885,6.52738,16.1775,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/563578677
-"May 8, 2014","May 6, 2014",Run,1180,9.99863,5865,9.77493,4.91883,6.13815,12.198,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/563578683
-"May 8, 2014","May 5, 2014",Run,610,5.13962,2232,7.23951,4.39784,8.28785,13.6431,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/563578699
-"May 4, 2014","May 4, 2014",Run,1443,12.1233,6540,8.99175,1.4155,6.67278,42.3877,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/558519871
-"April 26, 2014","April 26, 2014",Run,2069,20.31,12252,10.05,1.32352,5.97,45.3338,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/549889730
-"April 25, 2014","April 24, 2014",Run,1414,11.9155,6153,8.6052,5.81075,6.97253,10.3257,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/548357964
-"April 23, 2014","April 23, 2014",Run,1214,10.2471,5837,9.49465,1.28411,6.31934,46.7251,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926540
-"April 23, 2014","April 22, 2014",Run,596,5.0017,2212,7.37284,4.33739,8.13797,13.8332,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926548
-"April 23, 2014","April 20, 2014",Run,1457,12.3248,7146,9.66573,0.630907,6.2075,95.1011,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926552
-"April 23, 2014","April 19, 2014",Run,484,4.1167,2173,8.79711,6.29191,6.82042,9.53606,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926564
-"April 23, 2014","April 17, 2014",Run,594,5.02394,2307,7.65261,2.04986,7.84046,29.2703,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926572
-"April 23, 2014","April 15, 2014",Run,600,5.00287,2335,7.77686,5.64682,7.71519,10.6254,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926592
-"April 13, 2014","April 13, 2014",Run,2378,19.9972,11686,9.73943,0.618213,6.16052,97.054,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/536169756
-"April 13, 2014","April 11, 2014",Run,1195,10.0032,5014,8.35329,5.75464,7.1828,10.4264,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/536169770
-"April 9, 2014","April 9, 2014",Run,1193,10.0006,4690,7.81538,5.81957,7.67717,10.31,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/531909310
-"April 9, 2014","April 8, 2014",Run,495,4.21079,1853,7.33454,5.96451,8.18048,10.0595,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/531909322
-"April 6, 2014","April 6, 2014",Run,2236,18.9972,11344,9.95265,0.477513,6.02854,125.651,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/528482360
-"April 5, 2014","April 4, 2014",Run,1094,9.27424,4961,8.91406,2.30117,6.73094,26.0737,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/527215994
-"April 5, 2014","April 2, 2014",Run,1058,9.00305,4452,8.24037,1.90338,7.28123,31.5229,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/527216022
-"March 30, 2014","March 30, 2014",Run,2025,17.0005,9890,9.69718,2.22777,6.18737,26.9327,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/521365552
-"March 30, 2014","March 25, 2014",Run,511,4.31232,1974,7.63084,2.42232,7.86283,24.7696,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/521365558
-"March 23, 2014","March 23, 2014",Run,1604,13.1,5901,7.51,0,7.99,0,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/514981563
-"March 23, 2014","March 20, 2014",Run,527,4.44987,2157,8.07904,1.27054,7.42663,47.224,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/514981579
-"March 23, 2014","March 19, 2014",Run,865,7.14114,3940,9.1952,1.09167,6.52514,54.9615,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/514981601
-"March 16, 2014","March 16, 2014",Run,1912,16.0904,9491,9.83226,0.808854,6.10236,74.179,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/508898023
-"March 13, 2014","March 13, 2014",Run,957,8.06335,4510,9.31981,5.99785,6.4379,10.0036,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/506343407
-"March 9, 2014","March 9, 2014",Run,1675,13.95,7950,9.5,6.6065,6.32,9.08196,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390859
-"March 7, 2014","March 7, 2014",Run,0,7.07096,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/500304145
-"March 9, 2014","March 2, 2014",Run,1406,12.0315,10299,14.2672,2.14734,4.20544,27.9416,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390869
-"March 9, 2014","Feb. 27, 2014",Run,494,4.15482,1849,7.4177,5.65516,8.08876,10.6098,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390877
-"March 9, 2014","Feb. 26, 2014",Run,715,6.03755,3070,8.47469,6.27571,7.0799,9.56067,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390881
+"Aug. 2, 2014",27-Jul-14,Run,959,8.04789,4109,8.50964,5.64207,7.05082,10.6344,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/672764147
+20-Jul-14,19-Jul-14,Run,835,7.00379,4142,9.85755,2.89346,6.0867,20.7364,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186283
+20-Jul-14,18-Jul-14,Run,576,4.8656,2631,9.0129,4.50569,6.65712,13.3165,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186295
+20-Jul-14,17-Jul-14,Run,560,4.99012,2598,8.67758,0.99067,6.91437,60.565,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186323
+20-Jul-14,16-Jul-14,Run,292,2.43703,1512,10.3362,7.5365,5.80485,7.96126,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186343
+20-Jul-14,13-Jul-14,Run,921,7.75269,4622,9.9379,5.31137,6.03749,11.2965,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186369
+20-Jul-14,10-Jul-14,Run,483,4.00036,1875,7.81083,5.25723,7.68164,11.4128,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/655186387
+9-Jul-14,9-Jul-14,Run,530,4.54732,2455,8.99779,2.42189,6.66831,24.7741,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/640458095
+9-Jul-14,7-Jul-14,Run,594,4.99271,2401,8.01386,5.77571,7.48703,10.3883,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/640458129
+5-Jul-14,5-Jul-14,Run,1138,9.56636,5825,10.1485,5.93153,5.91222,10.1154,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/634853507
+22-Jun-14,22-Jun-14,Run,643,5.32593,2580,8.073707315,0,7.431530233,0,,,,,http://www.mapmyrun.com/workout/617546357
+22-Jun-14,21-Jun-14,Run,572,4.80362,2580,8.951582348,0,6.702725581,0,,,,,http://www.mapmyrun.com/workout/617537067
+17-Jun-14,17-Jun-14,Run,595,4.95146,2459,8.277019977,0,7.248985767,0,,0,,,http://www.mapmyrun.com/workout/611252289
+17-Jun-14,12-Jun-14,Run,676,5.54405,2541,7.638819996,0,7.854616293,0,,0,,,http://www.mapmyrun.com/workout/611250975
+17-Jun-14,5-Jun-14,Run,525,4.31,1920,7.42,0,8.08,0,,0,,,http://www.mapmyrun.com/workout/611249309
+3-Jun-14,1-Jun-14,Run,3133,26.17,13353,8.50401,0,7.05549,0,,0,,,http://www.mapmyrun.com/workout/593871831
+28-May-14,28-May-14,Run,488,4.13041,2053,8.28363,6.90232,7.2432,8.69273,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/586941129
+28-May-14,27-May-14,Run,539,4.52819,2296,8.448,7.06596,7.10227,8.49141,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/586941151
+25-May-14,25-May-14,Run,1027,8.65631,3947,7.59841,5.78069,7.89639,10.3794,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140155
+25-May-14,22-May-14,Run,509,4.30752,1902,7.35868,5.03802,8.15363,11.9094,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140163
+25-May-14,21-May-14,Run,827,6.99835,3426,8.16015,5.70447,7.35281,10.5181,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140173
+25-May-14,20-May-14,Run,121,1.47833,1534,17.3048,12.5221,3.46725,4.79152,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/583140175
+20-May-14,20-May-14,Run,531,4.49481,2043,7.57481,5.0704,7.92099,11.8334,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/577283089
+18-May-14,18-May-14,Run,1426,12.0011,6387,8.86984,6.26692,6.7645,9.57409,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/574579811
+17-May-14,17-May-14,Run,473,4.00164,1763,7.34458,5.58567,8.16929,10.7418,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/573092509
+15-May-14,15-May-14,Run,596,5.00605,2243,7.46518,4.5148,8.03731,13.2896,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/571422849
+15-May-14,14-May-14,Run,217,2.41756,6205,42.7789,14.5221,1.40256,4.13162,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/571422861
+13-May-14,13-May-14,Run,954,8.001,3939,8.20508,5.29878,7.31254,11.3234,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/568858749
+13-May-14,12-May-14,Run,594,5.00826,2192,7.29464,5.57638,8.22521,10.7597,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/568858963
+10-May-14,10-May-14,Run,2376,20.0018,12077,10.0647,0.716889,5.96144,83.695,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/565553029
+8-May-14,8-May-14,Run,1190,9.99881,5514,9.19205,3.70885,6.52738,16.1775,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/563578677
+8-May-14,6-May-14,Run,1180,9.99863,5865,9.77493,4.91883,6.13815,12.198,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/563578683
+8-May-14,5-May-14,Run,610,5.13962,2232,7.23951,4.39784,8.28785,13.6431,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/563578699
+4-May-14,4-May-14,Run,1443,12.1233,6540,8.99175,1.4155,6.67278,42.3877,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/558519871
+26-Apr-14,26-Apr-14,Run,2069,20.31,12252,10.05,1.32352,5.97,45.3338,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/549889730
+25-Apr-14,24-Apr-14,Run,1414,11.9155,6153,8.6052,5.81075,6.97253,10.3257,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/548357964
+23-Apr-14,23-Apr-14,Run,1214,10.2471,5837,9.49465,1.28411,6.31934,46.7251,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926540
+23-Apr-14,22-Apr-14,Run,596,5.0017,2212,7.37284,4.33739,8.13797,13.8332,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926548
+23-Apr-14,20-Apr-14,Run,1457,12.3248,7146,9.66573,0.630907,6.2075,95.1011,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926552
+23-Apr-14,19-Apr-14,Run,484,4.1167,2173,8.79711,6.29191,6.82042,9.53606,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926564
+23-Apr-14,17-Apr-14,Run,594,5.02394,2307,7.65261,2.04986,7.84046,29.2703,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926572
+23-Apr-14,15-Apr-14,Run,600,5.00287,2335,7.77686,5.64682,7.71519,10.6254,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/546926592
+13-Apr-14,13-Apr-14,Run,2378,19.9972,11686,9.73943,0.618213,6.16052,97.054,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/536169756
+13-Apr-14,11-Apr-14,Run,1195,10.0032,5014,8.35329,5.75464,7.1828,10.4264,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/536169770
+9-Apr-14,9-Apr-14,Run,1193,10.0006,4690,7.81538,5.81957,7.67717,10.31,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/531909310
+9-Apr-14,8-Apr-14,Run,495,4.21079,1853,7.33454,5.96451,8.18048,10.0595,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/531909322
+6-Apr-14,6-Apr-14,Run,2236,18.9972,11344,9.95265,0.477513,6.02854,125.651,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/528482360
+5-Apr-14,4-Apr-14,Run,1094,9.27424,4961,8.91406,2.30117,6.73094,26.0737,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/527215994
+5-Apr-14,2-Apr-14,Run,1058,9.00305,4452,8.24037,1.90338,7.28123,31.5229,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/527216022
+30-Mar-14,30-Mar-14,Run,2025,17.0005,9890,9.69718,2.22777,6.18737,26.9327,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/521365552
+30-Mar-14,25-Mar-14,Run,511,4.31232,1974,7.63084,2.42232,7.86283,24.7696,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/521365558
+23-Mar-14,23-Mar-14,Run,1604,13.1,5901,7.51,0,7.99,0,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/514981563
+23-Mar-14,20-Mar-14,Run,527,4.44987,2157,8.07904,1.27054,7.42663,47.224,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/514981579
+23-Mar-14,19-Mar-14,Run,865,7.14114,3940,9.1952,1.09167,6.52514,54.9615,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/514981601
+16-Mar-14,16-Mar-14,Run,1912,16.0904,9491,9.83226,0.808854,6.10236,74.179,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/508898023
+13-Mar-14,13-Mar-14,Run,957,8.06335,4510,9.31981,5.99785,6.4379,10.0036,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/506343407
+9-Mar-14,9-Mar-14,Run,1675,13.95,7950,9.5,6.6065,6.32,9.08196,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390859
+7-Mar-14,7-Mar-14,Run,0,7.07096,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/500304145
+9-Mar-14,2-Mar-14,Run,1406,12.0315,10299,14.2672,2.14734,4.20544,27.9416,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390869
+9-Mar-14,"Feb. 27, 2014",Run,494,4.15482,1849,7.4177,5.65516,8.08876,10.6098,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390877
+9-Mar-14,"Feb. 26, 2014",Run,715,6.03755,3070,8.47469,6.27571,7.0799,9.56067,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/502390881
 "Feb. 22, 2014","Feb. 22, 2014",Run,1430,12.0026,6780,9.41467,5.48403,6.37303,10.9409,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/490469003
 "Feb. 15, 2014","Feb. 15, 2014",Run,1211,10.1787,6319,10.3442,4.76504,5.80038,12.5917,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/484877559
 "Feb. 10, 2014","Feb. 9, 2014",Run,1215,10.1813,5817,9.52162,5.01728,6.30145,11.9587,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/481244237
@@ -422,7 +425,7 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Sept. 20, 2013","Sept. 10, 2013",Run,357,2.99758,1393,7.74766,6.50398,7.74427,9.22513,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/388977241
 "Sept. 9, 2013","Sept. 8, 2013",Run,200,2.48,2812,18.9,13.9265,3.17,4.30834,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/379178231
 "Sept. 9, 2013","Sept. 8, 2013",Run,129,1.4,3401,40.49,3.48162,1.48,17.2334,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/379178203
-"Sept. 7, 2013","Sept. 7, 2013",Run,1064,8.96256,4860,9.03759640103,0,6.63893333333,0,,0,,,http://www.mapmyrun.com/workout/377665401
+"Sept. 7, 2013","Sept. 7, 2013",Run,1064,8.96256,4860,9.037596401,0,6.638933333,0,,0,,,http://www.mapmyrun.com/workout/377665401
 "Sept. 2, 2013","Sept. 2, 2013",Run,1551,13.13,5770,7.32,5.87309,8.19,10.2161,,0,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/372511309
 "Aug. 30, 2013","Aug. 30, 2013",Run,673,5.56,2595,7.78,0,7.71,0,,0,,,http://www.mapmyrun.com/workout/370320195
 "Aug. 30, 2013","Aug. 28, 2013",Run,571,4.75047,2429,8.52316,3.14522,7.03964,19.0766,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/370319425
@@ -441,164 +444,164 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Aug. 8, 2013","Aug. 3, 2013",Run,1320,11.2551,6527,9.66573,0.756989,6.2075,79.2614,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/350504833
 "Aug. 3, 2013","Aug. 2, 2013",Run,663,5.53382,2903,8.74263,6.84769,6.86292,8.76208,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/345525307
 "Aug. 3, 2013","Aug. 1, 2013",Run,504,4.23485,2024,7.9639,4.77097,7.534,12.5761,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/345525331
-"Aug. 3, 2013","July 31, 2013",Run,1084,9.04055,4427,8.16015,5.76082,7.35281,10.4152,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/345525355
-"Aug. 3, 2013","July 29, 2013",Run,534,4.54593,1901,6.97048,2.7513,8.60773,21.8079,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/345525387
-"July 28, 2013","July 27, 2013",Run,1555,13.0018,6419,8.22773,3.96195,7.29241,15.1441,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/340102301
-"July 26, 2013","July 26, 2013",Run,454,3.82711,1903,8.28875,5.43624,7.23873,11.037,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/338824363
-"July 26, 2013","July 24, 2013",Run,838,6.99828,3110,7.40541,4.95976,8.10218,12.0974,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/338824369
-"July 26, 2013","July 23, 2013",Run,447,3.75412,1650,7.32652,6.15899,8.18942,9.74186,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/338824381
-"July 21, 2013","July 21, 2013",Run,1142,9.61716,4968,8.61072,4.68105,6.96806,12.8176,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/334207589
-"July 21, 2013","July 20, 2013",Run,479,4.00103,1903,7.92624,5.09061,7.56979,11.7864,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/334207605
-"July 19, 2013","July 19, 2013",Run,770,6.50898,3795,9.71826,5.80571,6.17394,10.3346,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/331864689
-"July 19, 2013","July 17, 2013",Run,847,7.1837,4218,9.78563,0.820182,6.13144,73.1545,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/331864709
-"July 19, 2013","July 16, 2013",Run,539,4.62253,2558,9.22049,7.29068,6.50725,8.22969,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/331864737
-"July 14, 2013","July 14, 2013",Run,1378,11.6635,7049,10.0722,4.50948,5.95696,13.3053,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847317
-"July 14, 2013","July 12, 2013",Run,625,5.20182,2663,8.53401,3.82958,7.03069,15.6675,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847339
-"July 14, 2013","July 11, 2013",Run,676,5.71993,3234,9.42129,5.46281,6.36856,10.9834,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847375
-"July 14, 2013","July 9, 2013",Run,405,3.43257,1476,7.16602,5.30192,8.37285,11.3167,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847383
-"July 14, 2013","July 8, 2013",Run,546,4.62603,2235,8.04994,4.59052,7.45347,13.0704,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847399
-"July 14, 2013","July 6, 2013",Run,1150,9.70159,5437,9.34253,1.89678,6.42224,31.6325,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847421
-"July 5, 2013","July 5, 2013",Run,410,3.43392,1548,7.51538,5.18809,7.98363,11.565,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/319892399
-"July 4, 2013","July 4, 2013",Run,724,6.02098,2887,7.99237,4.45259,7.50716,13.4753,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/319401003
-"July 3, 2013","July 3, 2013",Run,0,3.24,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/318427883
-"May 2, 2017","July 2, 2013",Run,0,5.13998,0,0,0,0,0,,11540,,,http://www.mapmyrun.com/workout/2165941220
-"July 3, 2013","July 2, 2013",Run,0,5.14,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/318427551
-"June 30, 2013","June 30, 2013",Run,0,10.52,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/315818627
-"June 29, 2013","June 29, 2013",Run,463,3.86366,1778,7.66422,5.65459,7.82859,10.6108,,,,Unknown,http://www.mapmyrun.com/workout/314889819
-"May 2, 2017","June 28, 2013",Run,0,6.09689,0,0,0,0,0,,13689,,,http://www.mapmyrun.com/workout/2165941121
-"June 29, 2013","June 28, 2013",Run,0,6.09744,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/314891153
-"June 26, 2013","June 26, 2013",Run,735,6.18,3153,8.5,0,7.06,0,,0,,,http://www.mapmyrun.com/workout/312859483
-"June 29, 2013","June 25, 2013",Run,389,3.31301,1591,8.01451,4.61169,7.48642,13.0104,,,,Unknown,http://www.mapmyrun.com/workout/314889837
-"June 29, 2013","June 23, 2013",Run,1303,10.926,5628,8.50088,4.74409,7.05809,12.6473,,,,Unknown,http://www.mapmyrun.com/workout/314889867
-"June 22, 2013","June 22, 2013",Run,410,3.41331,1538,11560.5,4.94547,0.00519007,12.1323,,,,Unknown,http://www.mapmyrun.com/workout/309302353
-"May 2, 2017","June 21, 2013",Run,0,4.51985,0,0,0,0,0,,10148,,,http://www.mapmyrun.com/workout/2165941001
-"June 22, 2013","June 21, 2013",Run,0,4.52,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/309303085
-"May 2, 2017","June 20, 2013",Machine Workout,500,0,2640,0,0,0,0,,,,,http://www.mapmyrun.com/workout/2165940902
-"June 22, 2013","June 20, 2013",Indoor Run / Jog,500,0,2640,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/309302855
-"June 22, 2013","June 19, 2013",Run,713,5.81691,3313,31472.3,4.425,0.00190644,13.5593,,,,,http://www.mapmyrun.com/workout/309302233
-"June 18, 2013","June 18, 2013",Run,534,4.49971,2029,15260.9,3.34356,0.00393163,17.9449,,,,,http://www.mapmyrun.com/workout/306232517
-"June 16, 2013","June 16, 2013",Run,1010,8.51,4520,8.85,5.09804,6.78,11.7692,,0,,,http://www.mapmyrun.com/workout/304313699
-"May 2, 2017","June 11, 2013",Run,0,5.55941,0,0,0,0,0,,12482,,,http://www.mapmyrun.com/workout/2165940743
-"June 12, 2013","June 11, 2013",Run,0,5.56,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/301586607
-"June 9, 2013","June 9, 2013",Run,1011,8.49419,4470,8.47744,5.16621,7.07761,11.6139,,,,,http://www.mapmyrun.com/workout/298923845
-"June 29, 2013","June 1, 2013",Run,1006,8.39077,4840,8.86637,5.05126,6.76715,11.8782,,,,Unknown,http://www.mapmyrun.com/workout/314889887
-"May 28, 2013","May 25, 2013",Run,1005,8.45561,4839,9.5374,4.8898,6.29102,12.2705,,,,Unknown,http://www.mapmyrun.com/workout/289296553
-"May 28, 2013","May 19, 2013",Run,1485,12.3488,6885,9.29246,1.90814,6.45685,31.4442,,,,Unknown,http://www.mapmyrun.com/workout/289296661
-"May 15, 2013","May 11, 2013",Run,991,8.32922,4839,9.68326,5.39425,6.19626,11.123,,,,Unknown,http://www.mapmyrun.com/workout/280406439
-"May 8, 2013","May 7, 2013",Run,740,6.24,3234,8.71,4.04184,6.89,14.8447,,0,,Unknown,http://www.mapmyrun.com/workout/275215054
-"May 8, 2013","May 5, 2013",Run,594,4.98073,2911,9.7,6.92068,6.18,8.66967,,0,,Unknown,http://www.mapmyrun.com/workout/275215094
-"May 8, 2013","May 2, 2013",Run,809,6.72,2949,7.31,2.66284,8.2,22.5323,,0,,Unknown,http://www.mapmyrun.com/workout/275215162
-"May 8, 2013","April 29, 2013",Run,903,7.68779,4478,9.74,5.90691,6.16,10.1576,,0,,Unknown,http://www.mapmyrun.com/workout/275215330
-"May 8, 2013","April 25, 2013",Run,552,4.66,2507,8.97,1.69195,6.69,35.4621,,0,,Unknown,http://www.mapmyrun.com/workout/275215370
-"April 21, 2013","April 21, 2013",Run,0,8.33,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/263573304
-"April 14, 2013","April 14, 2013",Run,999,8.32,4050,8.11,3.92864,7.4,15.2725,,0,,Garmin Garmin Connect,http://www.mapmyrun.com/workout/259358370
-"April 12, 2013","April 12, 2013",Run,0,5.02,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/258270928
-"April 9, 2013","April 7, 2013",Run,830,6.99981,3710,8.83469,6.13193,6.79141,9.78485,,,,Unknown,http://www.mapmyrun.com/workout/256531074
-"April 9, 2013","April 6, 2013",Run,1054,8.99868,4913,9.09873,5.96393,6.59433,10.0605,,,,Unknown,http://www.mapmyrun.com/workout/256531164
-"March 31, 2013","March 31, 2013",Run,0,8.33,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/251591906
-"May 2, 2017","March 29, 2013",Run,0,5.55941,0,0,0,0,0,,12482,,,http://www.mapmyrun.com/workout/2165940653
-"March 31, 2013","March 29, 2013",Run,0,5.56,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/251592198
-"May 2, 2017","March 17, 2013",Run,0,8.32948,0,0,0,0,0,,18701,,,http://www.mapmyrun.com/workout/2165940542
-"March 20, 2013","March 17, 2013",Run,0,8.33,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/246489808
-"March 13, 2013","March 10, 2013",Run,996,8.33415,4584,9.17437,5.08842,6.53996,11.7915,,,,Unknown,http://www.mapmyrun.com/workout/243451900
-"March 13, 2013","March 3, 2013",Run,1108,9.26144,4985,8.89281,6.10287,6.74703,9.83144,,,,Unknown,http://www.mapmyrun.com/workout/243451968
-"March 1, 2013","March 1, 2013",Run,722,6.04834,2935,8.088,4.46043,7.41839,13.4516,,,,Unknown,http://www.mapmyrun.com/workout/238417150
+"Aug. 3, 2013",31-Jul-13,Run,1084,9.04055,4427,8.16015,5.76082,7.35281,10.4152,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/345525355
+"Aug. 3, 2013",29-Jul-13,Run,534,4.54593,1901,6.97048,2.7513,8.60773,21.8079,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/345525387
+28-Jul-13,27-Jul-13,Run,1555,13.0018,6419,8.22773,3.96195,7.29241,15.1441,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/340102301
+26-Jul-13,26-Jul-13,Run,454,3.82711,1903,8.28875,5.43624,7.23873,11.037,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/338824363
+26-Jul-13,24-Jul-13,Run,838,6.99828,3110,7.40541,4.95976,8.10218,12.0974,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/338824369
+26-Jul-13,23-Jul-13,Run,447,3.75412,1650,7.32652,6.15899,8.18942,9.74186,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/338824381
+21-Jul-13,21-Jul-13,Run,1142,9.61716,4968,8.61072,4.68105,6.96806,12.8176,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/334207589
+21-Jul-13,20-Jul-13,Run,479,4.00103,1903,7.92624,5.09061,7.56979,11.7864,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/334207605
+19-Jul-13,19-Jul-13,Run,770,6.50898,3795,9.71826,5.80571,6.17394,10.3346,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/331864689
+19-Jul-13,17-Jul-13,Run,847,7.1837,4218,9.78563,0.820182,6.13144,73.1545,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/331864709
+19-Jul-13,16-Jul-13,Run,539,4.62253,2558,9.22049,7.29068,6.50725,8.22969,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/331864737
+14-Jul-13,14-Jul-13,Run,1378,11.6635,7049,10.0722,4.50948,5.95696,13.3053,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847317
+14-Jul-13,12-Jul-13,Run,625,5.20182,2663,8.53401,3.82958,7.03069,15.6675,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847339
+14-Jul-13,11-Jul-13,Run,676,5.71993,3234,9.42129,5.46281,6.36856,10.9834,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847375
+14-Jul-13,9-Jul-13,Run,405,3.43257,1476,7.16602,5.30192,8.37285,11.3167,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847383
+14-Jul-13,8-Jul-13,Run,546,4.62603,2235,8.04994,4.59052,7.45347,13.0704,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847399
+14-Jul-13,6-Jul-13,Run,1150,9.70159,5437,9.34253,1.89678,6.42224,31.6325,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/327847421
+5-Jul-13,5-Jul-13,Run,410,3.43392,1548,7.51538,5.18809,7.98363,11.565,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/319892399
+4-Jul-13,4-Jul-13,Run,724,6.02098,2887,7.99237,4.45259,7.50716,13.4753,,,,Garmin Forerunner 10,http://www.mapmyrun.com/workout/319401003
+3-Jul-13,3-Jul-13,Run,0,3.24,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/318427883
+2-May-17,2-Jul-13,Run,0,5.13998,0,0,0,0,0,,11540,,,http://www.mapmyrun.com/workout/2165941220
+3-Jul-13,2-Jul-13,Run,0,5.14,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/318427551
+30-Jun-13,30-Jun-13,Run,0,10.52,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/315818627
+29-Jun-13,29-Jun-13,Run,463,3.86366,1778,7.66422,5.65459,7.82859,10.6108,,,,Unknown,http://www.mapmyrun.com/workout/314889819
+2-May-17,28-Jun-13,Run,0,6.09689,0,0,0,0,0,,13689,,,http://www.mapmyrun.com/workout/2165941121
+29-Jun-13,28-Jun-13,Run,0,6.09744,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/314891153
+26-Jun-13,26-Jun-13,Run,735,6.18,3153,8.5,0,7.06,0,,0,,,http://www.mapmyrun.com/workout/312859483
+29-Jun-13,25-Jun-13,Run,389,3.31301,1591,8.01451,4.61169,7.48642,13.0104,,,,Unknown,http://www.mapmyrun.com/workout/314889837
+29-Jun-13,23-Jun-13,Run,1303,10.926,5628,8.50088,4.74409,7.05809,12.6473,,,,Unknown,http://www.mapmyrun.com/workout/314889867
+22-Jun-13,22-Jun-13,Run,410,3.41331,1538,11560.5,4.94547,0.00519007,12.1323,,,,Unknown,http://www.mapmyrun.com/workout/309302353
+2-May-17,21-Jun-13,Run,0,4.51985,0,0,0,0,0,,10148,,,http://www.mapmyrun.com/workout/2165941001
+22-Jun-13,21-Jun-13,Run,0,4.52,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/309303085
+2-May-17,20-Jun-13,Machine Workout,500,0,2640,0,0,0,0,,,,,http://www.mapmyrun.com/workout/2165940902
+22-Jun-13,20-Jun-13,Indoor Run / Jog,500,0,2640,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/309302855
+22-Jun-13,19-Jun-13,Run,713,5.81691,3313,31472.3,4.425,0.00190644,13.5593,,,,,http://www.mapmyrun.com/workout/309302233
+18-Jun-13,18-Jun-13,Run,534,4.49971,2029,15260.9,3.34356,0.00393163,17.9449,,,,,http://www.mapmyrun.com/workout/306232517
+16-Jun-13,16-Jun-13,Run,1010,8.51,4520,8.85,5.09804,6.78,11.7692,,0,,,http://www.mapmyrun.com/workout/304313699
+2-May-17,11-Jun-13,Run,0,5.55941,0,0,0,0,0,,12482,,,http://www.mapmyrun.com/workout/2165940743
+12-Jun-13,11-Jun-13,Run,0,5.56,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/301586607
+9-Jun-13,9-Jun-13,Run,1011,8.49419,4470,8.47744,5.16621,7.07761,11.6139,,,,,http://www.mapmyrun.com/workout/298923845
+29-Jun-13,1-Jun-13,Run,1006,8.39077,4840,8.86637,5.05126,6.76715,11.8782,,,,Unknown,http://www.mapmyrun.com/workout/314889887
+28-May-13,25-May-13,Run,1005,8.45561,4839,9.5374,4.8898,6.29102,12.2705,,,,Unknown,http://www.mapmyrun.com/workout/289296553
+28-May-13,19-May-13,Run,1485,12.3488,6885,9.29246,1.90814,6.45685,31.4442,,,,Unknown,http://www.mapmyrun.com/workout/289296661
+15-May-13,11-May-13,Run,991,8.32922,4839,9.68326,5.39425,6.19626,11.123,,,,Unknown,http://www.mapmyrun.com/workout/280406439
+8-May-13,7-May-13,Run,740,6.24,3234,8.71,4.04184,6.89,14.8447,,0,,Unknown,http://www.mapmyrun.com/workout/275215054
+8-May-13,5-May-13,Run,594,4.98073,2911,9.7,6.92068,6.18,8.66967,,0,,Unknown,http://www.mapmyrun.com/workout/275215094
+8-May-13,2-May-13,Run,809,6.72,2949,7.31,2.66284,8.2,22.5323,,0,,Unknown,http://www.mapmyrun.com/workout/275215162
+8-May-13,29-Apr-13,Run,903,7.68779,4478,9.74,5.90691,6.16,10.1576,,0,,Unknown,http://www.mapmyrun.com/workout/275215330
+8-May-13,25-Apr-13,Run,552,4.66,2507,8.97,1.69195,6.69,35.4621,,0,,Unknown,http://www.mapmyrun.com/workout/275215370
+21-Apr-13,21-Apr-13,Run,0,8.33,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/263573304
+14-Apr-13,14-Apr-13,Run,999,8.32,4050,8.11,3.92864,7.4,15.2725,,0,,Garmin Garmin Connect,http://www.mapmyrun.com/workout/259358370
+12-Apr-13,12-Apr-13,Run,0,5.02,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/258270928
+9-Apr-13,7-Apr-13,Run,830,6.99981,3710,8.83469,6.13193,6.79141,9.78485,,,,Unknown,http://www.mapmyrun.com/workout/256531074
+9-Apr-13,6-Apr-13,Run,1054,8.99868,4913,9.09873,5.96393,6.59433,10.0605,,,,Unknown,http://www.mapmyrun.com/workout/256531164
+31-Mar-13,31-Mar-13,Run,0,8.33,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/251591906
+2-May-17,29-Mar-13,Run,0,5.55941,0,0,0,0,0,,12482,,,http://www.mapmyrun.com/workout/2165940653
+31-Mar-13,29-Mar-13,Run,0,5.56,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/251592198
+2-May-17,17-Mar-13,Run,0,8.32948,0,0,0,0,0,,18701,,,http://www.mapmyrun.com/workout/2165940542
+20-Mar-13,17-Mar-13,Run,0,8.33,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/246489808
+13-Mar-13,10-Mar-13,Run,996,8.33415,4584,9.17437,5.08842,6.53996,11.7915,,,,Unknown,http://www.mapmyrun.com/workout/243451900
+13-Mar-13,3-Mar-13,Run,1108,9.26144,4985,8.89281,6.10287,6.74703,9.83144,,,,Unknown,http://www.mapmyrun.com/workout/243451968
+1-Mar-13,1-Mar-13,Run,722,6.04834,2935,8.088,4.46043,7.41839,13.4516,,,,Unknown,http://www.mapmyrun.com/workout/238417150
 "Feb. 19, 2013","Feb. 17, 2013",Run,1195,9.88677,5482,9.14,3.0797,6.57,19.4824,,0,,Unknown,http://www.mapmyrun.com/workout/234702700
 "Feb. 15, 2013","Feb. 15, 2013",Run,732,6.23284,3119,8.45,2.71065,7.1,22.1349,,0,,Unknown,http://www.mapmyrun.com/workout/233193312
-"Feb. 13, 2013","Feb. 10, 2013",Run,1165,10.0,5198,8.66,2.93698,6.93,20.4291,,0,,Unknown,http://www.mapmyrun.com/workout/232385680
-"May 2, 2017","Feb. 8, 2013",Run,0,6.18948,0,0,0,0,0,,13897,,,http://www.mapmyrun.com/workout/2165940452
+"Feb. 13, 2013","Feb. 10, 2013",Run,1165,10,5198,8.66,2.93698,6.93,20.4291,,0,,Unknown,http://www.mapmyrun.com/workout/232385680
+2-May-17,"Feb. 8, 2013",Run,0,6.18948,0,0,0,0,0,,13897,,,http://www.mapmyrun.com/workout/2165940452
 "Feb. 13, 2013","Feb. 8, 2013",Run,0,6.19,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/232393440
-"Feb. 3, 2013","Feb. 3, 2013",Run,928,8.0,4151,8.65,6.09398,6.94,9.84579,,0,,Unknown,http://www.mapmyrun.com/workout/228762762
+"Feb. 3, 2013","Feb. 3, 2013",Run,928,8,4151,8.65,6.09398,6.94,9.84579,,0,,Unknown,http://www.mapmyrun.com/workout/228762762
 "Feb. 1, 2013","Feb. 1, 2013",Run,598,5.15086,2875,9.34,5.32298,6.42,11.2719,,0,,Unknown,http://www.mapmyrun.com/workout/228012150
-"Jan. 27, 2013","Jan. 27, 2013",Run,933,8.0,4012,8.36,1.69993,7.18,35.2955,,0,,Unknown,http://www.mapmyrun.com/workout/226247550
-"Dec. 31, 2012","Dec. 31, 2012",Run,811,7.0,3751,8.93,4.18556,6.72,14.335,,0,,Unknown,http://www.mapmyrun.com/workout/216545694
-"May 2, 2017","Dec. 24, 2012",Run,823,7.01652,3960,9.40637238973,0,6.37865454545,0,,10643,,,http://www.mapmyrun.com/workout/2165940326
-"Jan. 3, 2013","Dec. 24, 2012",Run,823,7.01672,3960,9.40610427664,0,6.37883636364,0,0,0,,,http://www.mapmyrun.com/workout/217462894
+"Jan. 27, 2013","Jan. 27, 2013",Run,933,8,4012,8.36,1.69993,7.18,35.2955,,0,,Unknown,http://www.mapmyrun.com/workout/226247550
+"Dec. 31, 2012","Dec. 31, 2012",Run,811,7,3751,8.93,4.18556,6.72,14.335,,0,,Unknown,http://www.mapmyrun.com/workout/216545694
+2-May-17,"Dec. 24, 2012",Run,823,7.01652,3960,9.40637239,0,6.378654545,0,,10643,,,http://www.mapmyrun.com/workout/2165940326
+"Jan. 3, 2013","Dec. 24, 2012",Run,823,7.01672,3960,9.406104277,0,6.378836364,0,0,0,,,http://www.mapmyrun.com/workout/217462894
 "Dec. 31, 2012","Nov. 24, 2012",Run,692,5.97,3102,8.66,6.54022,6.93,9.17401,,0,,Unknown,http://www.mapmyrun.com/workout/216546536
 "Oct. 8, 2012","Oct. 8, 2012",Run,3040,26.22,13855,8.81,0,6.81,0,,0,,,http://www.mapmyrun.com/workout/191148587
 "Oct. 8, 2012","Oct. 7, 2012",Run,3158,26.64,13855,8.67,4.48114,6.92,13.3895,,0,,Unknown,http://www.mapmyrun.com/workout/191379775
-"Sept. 27, 2012","Sept. 27, 2012",Run,946,8.0,3748,7.81,5.93148,7.68,10.1155,,0,,Unknown,http://www.mapmyrun.com/workout/187030573
-"Sept. 27, 2012","Sept. 27, 2012",Run,485,4.31208,1835,7.09247818532,0,8.45966648501,0,0,0,,,http://www.mapmyrun.com/workout/186720331
-"Sept. 23, 2012","Sept. 23, 2012",Run,1746,15.0,8330,9.25556,6.14572,6.48259,9.7629,,0,,Unknown,http://www.mapmyrun.com/workout/185236413
-"Sept. 21, 2012","Sept. 21, 2012",Run,596,5.0,2413,8.04333,4.59393,7.45959,13.0607,,0,,Unknown,http://www.mapmyrun.com/workout/184392629
-"Sept. 16, 2012","Sept. 16, 2012",Run,2319,20.0,10513,8.76083,4.15013,6.84866,14.4574,,0,,Unknown,http://www.mapmyrun.com/workout/182184399
-"Sept. 14, 2012","Sept. 14, 2012",Run,591,5.0,2289,7.63,5.48757,7.8637,10.9338,,0,,Unknown,http://www.mapmyrun.com/workout/181325559
-"Sept. 12, 2012","Sept. 12, 2012",Run,805,6.63131,3155,7.92955439172,0,7.56662947702,0,0,0,,,http://www.mapmyrun.com/workout/180372351
-"Sept. 9, 2012","Sept. 9, 2012",Run,1159,10.0,5291,8.81833,5.59382,6.80401,10.7261,,0,,Unknown,http://www.mapmyrun.com/workout/178730303
+"Sept. 27, 2012","Sept. 27, 2012",Run,946,8,3748,7.81,5.93148,7.68,10.1155,,0,,Unknown,http://www.mapmyrun.com/workout/187030573
+"Sept. 27, 2012","Sept. 27, 2012",Run,485,4.31208,1835,7.092478185,0,8.459666485,0,0,0,,,http://www.mapmyrun.com/workout/186720331
+"Sept. 23, 2012","Sept. 23, 2012",Run,1746,15,8330,9.25556,6.14572,6.48259,9.7629,,0,,Unknown,http://www.mapmyrun.com/workout/185236413
+"Sept. 21, 2012","Sept. 21, 2012",Run,596,5,2413,8.04333,4.59393,7.45959,13.0607,,0,,Unknown,http://www.mapmyrun.com/workout/184392629
+"Sept. 16, 2012","Sept. 16, 2012",Run,2319,20,10513,8.76083,4.15013,6.84866,14.4574,,0,,Unknown,http://www.mapmyrun.com/workout/182184399
+"Sept. 14, 2012","Sept. 14, 2012",Run,591,5,2289,7.63,5.48757,7.8637,10.9338,,0,,Unknown,http://www.mapmyrun.com/workout/181325559
+"Sept. 12, 2012","Sept. 12, 2012",Run,805,6.63131,3155,7.929554392,0,7.566629477,0,0,0,,,http://www.mapmyrun.com/workout/180372351
+"Sept. 9, 2012","Sept. 9, 2012",Run,1159,10,5291,8.81833,5.59382,6.80401,10.7261,,0,,Unknown,http://www.mapmyrun.com/workout/178730303
 "Sept. 7, 2012","Sept. 7, 2012",Run,451,4.08,2344,9.57516,4.30919,6.26621,13.9237,,0,,Unknown,http://www.mapmyrun.com/workout/177859157
 "Sept. 5, 2012","Sept. 5, 2012",Run,624,5.26,2350,7.44613,5.04431,8.05787,11.8946,,0,,Unknown,http://www.mapmyrun.com/workout/177027901
 "Sept. 2, 2012","Sept. 2, 2012",Run,2460,20.83,12678,10.144,5.8355,5.91481,10.2819,,0,,Unknown,http://www.mapmyrun.com/workout/175388263
 "Sept. 1, 2012","Aug. 31, 2012",Run,539,4.64,2521,9.05532,4.77882,6.62594,12.5554,,0,,Unknown,http://www.mapmyrun.com/workout/175084237
-"Aug. 29, 2012","Aug. 29, 2012",Run,843,7.11614,3570,8.36127451118,0,7.1759394958,0,0,0,,,http://www.mapmyrun.com/workout/173750911
+"Aug. 29, 2012","Aug. 29, 2012",Run,843,7.11614,3570,8.361274511,0,7.175939496,0,0,0,,,http://www.mapmyrun.com/workout/173750911
 "Aug. 27, 2012","Aug. 26, 2012",Run,1748,14.8153,8379,9.31,4.46892,6.44468,13.4261,,0,,Unknown,http://www.mapmyrun.com/workout/172427531
 "Aug. 25, 2012","Aug. 25, 2012",Run,571,5.05,2954,9.74918,4.4975,6.15437,13.3407,,0,,Unknown,http://www.mapmyrun.com/workout/171762589
 "Aug. 22, 2012","Aug. 22, 2012",Run,569,4.83,2130,7.3499,0,8.16338,0,,0,,,http://www.mapmyrun.com/workout/170410879
-"Aug. 20, 2012","Aug. 19, 2012",Run,2088,18.0,9738,9.01667,6.07819,6.65434,9.87136,,0,,Unknown,http://www.mapmyrun.com/workout/168985523
+"Aug. 20, 2012","Aug. 19, 2012",Run,2088,18,9738,9.01667,6.07819,6.65434,9.87136,,0,,Unknown,http://www.mapmyrun.com/workout/168985523
 "Aug. 17, 2012","Aug. 16, 2012",Run,531,4.52,1976,7.28614,5.43047,8.23482,11.0488,,0,,Unknown,http://www.mapmyrun.com/workout/167655091
 "Aug. 15, 2012","Aug. 15, 2012",Run,431,3.88,2711,11.6452,4.09332,5.15234,14.658,,0,,Unknown,http://www.mapmyrun.com/workout/166944509
-"Aug. 12, 2012","Aug. 12, 2012",Run,1517,13.0,6492,8.32308,5.4258,7.20887,11.0583,,0,,Unknown,http://www.mapmyrun.com/workout/165286999
+"Aug. 12, 2012","Aug. 12, 2012",Run,1517,13,6492,8.32308,5.4258,7.20887,11.0583,,0,,Unknown,http://www.mapmyrun.com/workout/165286999
 "Aug. 11, 2012","Aug. 10, 2012",Run,418,3.58,1950,9.07821,4.73042,6.60923,12.6839,,0,,Unknown,http://www.mapmyrun.com/workout/164832259
-"Aug. 8, 2012","Aug. 8, 2012",Run,1184,10.0,4751,7.91833,5.59985,7.57735,10.7146,,0,,Unknown,http://www.mapmyrun.com/workout/163625837
-"Aug. 5, 2012","Aug. 5, 2012",Run,2005,17.0,10284,10.0824,1.22976,5.95099,48.7898,,0,,Unknown,http://www.mapmyrun.com/workout/162086499
-"Aug. 3, 2012","Aug. 3, 2012",Run,940,8.0,3871,8.06458,5.63544,7.43994,10.6469,,0,,Unknown,http://www.mapmyrun.com/workout/161261157
+"Aug. 8, 2012","Aug. 8, 2012",Run,1184,10,4751,7.91833,5.59985,7.57735,10.7146,,0,,Unknown,http://www.mapmyrun.com/workout/163625837
+"Aug. 5, 2012","Aug. 5, 2012",Run,2005,17,10284,10.0824,1.22976,5.95099,48.7898,,0,,Unknown,http://www.mapmyrun.com/workout/162086499
+"Aug. 3, 2012","Aug. 3, 2012",Run,940,8,3871,8.06458,5.63544,7.43994,10.6469,,0,,Unknown,http://www.mapmyrun.com/workout/161261157
 "Aug. 3, 2012","Aug. 1, 2012",Run,515,4.28,2987,11.6316,4.3054,5.15835,13.936,,0,,Unknown,http://www.mapmyrun.com/workout/161260917
-"July 29, 2012","July 29, 2012",Run,1748,15.0,7540,8.37778,2.52755,7.1618,23.7384,,0,,Unknown,http://www.mapmyrun.com/workout/158767333
-"July 26, 2012","July 25, 2012",Run,580,5.0,2134,7.11333,5.1501,8.43486,11.6503,,0,,Unknown,http://www.mapmyrun.com/workout/157602067
-"July 22, 2012","July 22, 2012",Run,1526,14.0,7279,8.66548,5.45184,6.92403,11.0055,,0,,Unknown,http://www.mapmyrun.com/workout/155551433
-"July 21, 2012","July 20, 2012",Run,349,3.17135,2022,10.8209,4.12463,5.5448,14.5468,,,,Unknown,http://www.mapmyrun.com/workout/155186321
-"July 18, 2012","July 18, 2012",Run,554,5.0,2205,7.35,4.69998,8.16327,12.766,,0,,Unknown,http://www.mapmyrun.com/workout/153944991
-"July 15, 2012","July 15, 2012",Run,1111,10.0,4692,7.82,4.60528,7.67263,13.0285,,0,,Unknown,http://www.mapmyrun.com/workout/152367249
-"July 15, 2012","July 13, 2012",Run,359,3.03,1304,7.17272,4.67063,8.36503,12.8462,,0,,Unknown,http://www.mapmyrun.com/workout/152367655
-"July 11, 2012","July 11, 2012",Run,404,3.45768,1962,9.53369,1.66833,6.29347,35.9642,,,,Unknown,http://www.mapmyrun.com/workout/150747877
-"July 8, 2012","July 8, 2012",Run,1539,13.0,6374,8.17179,5.04123,7.34233,11.9019,,0,,Unknown,http://www.mapmyrun.com/workout/149163029
-"July 6, 2012","July 6, 2012",Run,400,3.66,2000,9.10747,4.15722,6.588,14.4327,,0,,Unknown,http://www.mapmyrun.com/workout/148382799
-"July 5, 2012","July 5, 2012",Run,794,6.87941,3360,8.14023295602,0,7.37079642857,0,0,0,,,http://www.mapmyrun.com/workout/147997133
-"July 1, 2012","July 1, 2012",Run,1327,12.01,5789,8.03358,5.03594,7.46865,11.9143,,0,,Unknown,http://www.mapmyrun.com/workout/146128579
-"June 30, 2012","June 30, 2012",Run,445,4.05,2303,9.47737,4.22004,6.33087,14.2179,,0,,Unknown,http://www.mapmyrun.com/workout/145720577
-"June 27, 2012","June 27, 2012",Run,496,4.52,1953,7.20133,5.36413,8.3318,11.1854,,0,,Unknown,http://www.mapmyrun.com/workout/144637289
-"June 24, 2012","June 24, 2012",Run,1110,10.0,4709,7.84833,4.83072,7.64494,12.4205,,0,,Unknown,http://www.mapmyrun.com/workout/142999895
-"June 22, 2012","June 22, 2012",Run,365,3.35,2092,10.408,4.36031,5.76482,13.7605,,0,,Unknown,http://www.mapmyrun.com/workout/142270901
-"June 20, 2012","June 20, 2012",Run,363,3.07,1293,7.01954,5.38299,8.54756,11.1462,,0,,Unknown,http://www.mapmyrun.com/workout/141459455
-"June 17, 2012","June 17, 2012",Run,735,6.18,2692,7.25998,4.58686,8.26449,13.0809,,0,,Unknown,http://www.mapmyrun.com/workout/139900967
-"June 9, 2012","June 9, 2012",Run,981,9.0,4783,8.85741,4.87421,6.77399,12.3097,,0,,Unknown,http://www.mapmyrun.com/workout/136499073
-"May 2, 2017","June 7, 2012",Run,0,5.01882,0,0,0,0,0,,11268,,,http://www.mapmyrun.com/workout/2165940197
-"June 8, 2012","June 7, 2012",Run,0,5.01883,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/135904591
-"June 5, 2012","June 5, 2012",Run,0,5.01883,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/134839471
-"June 3, 2012","June 3, 2012",Run,987,9.06,4760,8.75644,5.02216,6.8521,11.9471,,0,,Unknown,http://www.mapmyrun.com/workout/133722019
-"May 17, 2012","May 17, 2012",Run,466,4.26856,2160,8.43375,0,7.11427,0,,0,,,http://www.mapmyrun.com/workout/126451191
-"May 2, 2017","May 14, 2012",Run,0,7.98897,0,0,0,0,0,,17937,,,http://www.mapmyrun.com/workout/2165940116
-"May 15, 2012","May 14, 2012",Run,0,7.98959,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/125453443
-"May 11, 2012","May 10, 2012",Run,627,5.23,2744,8.74442,4.54169,6.86152,13.211,,0,,Unknown,http://www.mapmyrun.com/workout/123825633
-"May 11, 2012","May 8, 2012",Run,656,5.35,2785,8.67601,3.11753,6.91562,19.246,,0,,Unknown,http://www.mapmyrun.com/workout/123825293
-"May 1, 2012","May 1, 2012",Run,0,5.01883,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/120172807
-"April 29, 2012","April 29, 2012",Run,1054,9.61,5431,9.41901,3.48574,6.3701,17.213,,0,,Unknown,http://www.mapmyrun.com/workout/119278925
-"April 23, 2012","April 22, 2012",Run,1106,10.05,5838,9.68159,5.42667,6.19733,11.0565,,0,,Unknown,http://www.mapmyrun.com/workout/117193223
-"April 23, 2012","April 17, 2012",Run,740,6.18541,3112,8.37911,4.78091,7.16067,12.5499,,0,,Unknown,http://www.mapmyrun.com/workout/117193071
-"April 15, 2012","April 15, 2012",Run,990,9.0,5208,9.64444,1.86449,6.2212,32.1804,,0,,Unknown,http://www.mapmyrun.com/workout/114130409
-"April 13, 2012","April 13, 2012",Run,0,5.35512,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/113378901
-"April 10, 2012","April 10, 2012",Run,0,4.02639,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/112314273
-"April 8, 2012","April 8, 2012",Run,964,8.85,4731,8.9096,4.97803,6.73431,12.053,,0,,Unknown,http://www.mapmyrun.com/workout/111627925
-"April 5, 2012","April 5, 2012",Run,0,7.06762,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/110647745
-"April 3, 2012","April 3, 2012",Run,0,5.32102,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/109883071
-"April 1, 2012","April 1, 2012",Run,1261,11.41,6840,9.99124,0,6.00526,0,,0,,,http://www.mapmyrun.com/workout/109176721
-"March 30, 2012","March 30, 2012",Run,545,4.9,2276,7.7415,4.18807,7.75044,14.3264,,0,,,http://www.mapmyrun.com/workout/109384483
-"March 25, 2012","March 25, 2012",Run,1478,13.2,5940,7.5,0,8.0,0,,0,,,http://www.mapmyrun.com/workout/106725882
-"March 20, 2012","March 20, 2012",Run,0,5.17618,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/105099760
-"March 18, 2012","March 18, 2012",Run,1502,13.66,7877,9.61079,5.14646,6.24299,11.6585,,0,,Unknown,http://www.mapmyrun.com/workout/104294902
-"May 2, 2017","March 16, 2012",Run,0,6.56914,0,0,0,0,0,,14749,,,http://www.mapmyrun.com/workout/2165940020
-"March 17, 2012","March 16, 2012",Run,0,6.56964,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/103760172
-"March 10, 2012","March 10, 2012",Run,1293,11.85,6441,9.05907,3.23805,6.6232,18.5297,,0,,Unknown,http://www.mapmyrun.com/workout/101548204
-"March 8, 2012","March 8, 2012",Run,0,6.20622,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/100539882
-"May 2, 2017","March 6, 2012",Run,0,4.88646,0,0,0,0,0,,10971,,,http://www.mapmyrun.com/workout/2165939927
-"March 7, 2012","March 6, 2012",Run,0,4.88675,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/100038010
-"March 4, 2012","March 4, 2012",Run,1160,10.63,5797,9.08906,4.87026,6.60135,12.3197,,0,,Unknown,http://www.mapmyrun.com/workout/99317110
+29-Jul-12,29-Jul-12,Run,1748,15,7540,8.37778,2.52755,7.1618,23.7384,,0,,Unknown,http://www.mapmyrun.com/workout/158767333
+26-Jul-12,25-Jul-12,Run,580,5,2134,7.11333,5.1501,8.43486,11.6503,,0,,Unknown,http://www.mapmyrun.com/workout/157602067
+22-Jul-12,22-Jul-12,Run,1526,14,7279,8.66548,5.45184,6.92403,11.0055,,0,,Unknown,http://www.mapmyrun.com/workout/155551433
+21-Jul-12,20-Jul-12,Run,349,3.17135,2022,10.8209,4.12463,5.5448,14.5468,,,,Unknown,http://www.mapmyrun.com/workout/155186321
+18-Jul-12,18-Jul-12,Run,554,5,2205,7.35,4.69998,8.16327,12.766,,0,,Unknown,http://www.mapmyrun.com/workout/153944991
+15-Jul-12,15-Jul-12,Run,1111,10,4692,7.82,4.60528,7.67263,13.0285,,0,,Unknown,http://www.mapmyrun.com/workout/152367249
+15-Jul-12,13-Jul-12,Run,359,3.03,1304,7.17272,4.67063,8.36503,12.8462,,0,,Unknown,http://www.mapmyrun.com/workout/152367655
+11-Jul-12,11-Jul-12,Run,404,3.45768,1962,9.53369,1.66833,6.29347,35.9642,,,,Unknown,http://www.mapmyrun.com/workout/150747877
+8-Jul-12,8-Jul-12,Run,1539,13,6374,8.17179,5.04123,7.34233,11.9019,,0,,Unknown,http://www.mapmyrun.com/workout/149163029
+6-Jul-12,6-Jul-12,Run,400,3.66,2000,9.10747,4.15722,6.588,14.4327,,0,,Unknown,http://www.mapmyrun.com/workout/148382799
+5-Jul-12,5-Jul-12,Run,794,6.87941,3360,8.140232956,0,7.370796429,0,0,0,,,http://www.mapmyrun.com/workout/147997133
+1-Jul-12,1-Jul-12,Run,1327,12.01,5789,8.03358,5.03594,7.46865,11.9143,,0,,Unknown,http://www.mapmyrun.com/workout/146128579
+30-Jun-12,30-Jun-12,Run,445,4.05,2303,9.47737,4.22004,6.33087,14.2179,,0,,Unknown,http://www.mapmyrun.com/workout/145720577
+27-Jun-12,27-Jun-12,Run,496,4.52,1953,7.20133,5.36413,8.3318,11.1854,,0,,Unknown,http://www.mapmyrun.com/workout/144637289
+24-Jun-12,24-Jun-12,Run,1110,10,4709,7.84833,4.83072,7.64494,12.4205,,0,,Unknown,http://www.mapmyrun.com/workout/142999895
+22-Jun-12,22-Jun-12,Run,365,3.35,2092,10.408,4.36031,5.76482,13.7605,,0,,Unknown,http://www.mapmyrun.com/workout/142270901
+20-Jun-12,20-Jun-12,Run,363,3.07,1293,7.01954,5.38299,8.54756,11.1462,,0,,Unknown,http://www.mapmyrun.com/workout/141459455
+17-Jun-12,17-Jun-12,Run,735,6.18,2692,7.25998,4.58686,8.26449,13.0809,,0,,Unknown,http://www.mapmyrun.com/workout/139900967
+9-Jun-12,9-Jun-12,Run,981,9,4783,8.85741,4.87421,6.77399,12.3097,,0,,Unknown,http://www.mapmyrun.com/workout/136499073
+2-May-17,7-Jun-12,Run,0,5.01882,0,0,0,0,0,,11268,,,http://www.mapmyrun.com/workout/2165940197
+8-Jun-12,7-Jun-12,Run,0,5.01883,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/135904591
+5-Jun-12,5-Jun-12,Run,0,5.01883,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/134839471
+3-Jun-12,3-Jun-12,Run,987,9.06,4760,8.75644,5.02216,6.8521,11.9471,,0,,Unknown,http://www.mapmyrun.com/workout/133722019
+17-May-12,17-May-12,Run,466,4.26856,2160,8.43375,0,7.11427,0,,0,,,http://www.mapmyrun.com/workout/126451191
+2-May-17,14-May-12,Run,0,7.98897,0,0,0,0,0,,17937,,,http://www.mapmyrun.com/workout/2165940116
+15-May-12,14-May-12,Run,0,7.98959,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/125453443
+11-May-12,10-May-12,Run,627,5.23,2744,8.74442,4.54169,6.86152,13.211,,0,,Unknown,http://www.mapmyrun.com/workout/123825633
+11-May-12,8-May-12,Run,656,5.35,2785,8.67601,3.11753,6.91562,19.246,,0,,Unknown,http://www.mapmyrun.com/workout/123825293
+1-May-12,1-May-12,Run,0,5.01883,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/120172807
+29-Apr-12,29-Apr-12,Run,1054,9.61,5431,9.41901,3.48574,6.3701,17.213,,0,,Unknown,http://www.mapmyrun.com/workout/119278925
+23-Apr-12,22-Apr-12,Run,1106,10.05,5838,9.68159,5.42667,6.19733,11.0565,,0,,Unknown,http://www.mapmyrun.com/workout/117193223
+23-Apr-12,17-Apr-12,Run,740,6.18541,3112,8.37911,4.78091,7.16067,12.5499,,0,,Unknown,http://www.mapmyrun.com/workout/117193071
+15-Apr-12,15-Apr-12,Run,990,9,5208,9.64444,1.86449,6.2212,32.1804,,0,,Unknown,http://www.mapmyrun.com/workout/114130409
+13-Apr-12,13-Apr-12,Run,0,5.35512,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/113378901
+10-Apr-12,10-Apr-12,Run,0,4.02639,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/112314273
+8-Apr-12,8-Apr-12,Run,964,8.85,4731,8.9096,4.97803,6.73431,12.053,,0,,Unknown,http://www.mapmyrun.com/workout/111627925
+5-Apr-12,5-Apr-12,Run,0,7.06762,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/110647745
+3-Apr-12,3-Apr-12,Run,0,5.32102,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/109883071
+1-Apr-12,1-Apr-12,Run,1261,11.41,6840,9.99124,0,6.00526,0,,0,,,http://www.mapmyrun.com/workout/109176721
+30-Mar-12,30-Mar-12,Run,545,4.9,2276,7.7415,4.18807,7.75044,14.3264,,0,,,http://www.mapmyrun.com/workout/109384483
+25-Mar-12,25-Mar-12,Run,1478,13.2,5940,7.5,0,8,0,,0,,,http://www.mapmyrun.com/workout/106725882
+20-Mar-12,20-Mar-12,Run,0,5.17618,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/105099760
+18-Mar-12,18-Mar-12,Run,1502,13.66,7877,9.61079,5.14646,6.24299,11.6585,,0,,Unknown,http://www.mapmyrun.com/workout/104294902
+2-May-17,16-Mar-12,Run,0,6.56914,0,0,0,0,0,,14749,,,http://www.mapmyrun.com/workout/2165940020
+17-Mar-12,16-Mar-12,Run,0,6.56964,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/103760172
+10-Mar-12,10-Mar-12,Run,1293,11.85,6441,9.05907,3.23805,6.6232,18.5297,,0,,Unknown,http://www.mapmyrun.com/workout/101548204
+8-Mar-12,8-Mar-12,Run,0,6.20622,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/100539882
+2-May-17,6-Mar-12,Run,0,4.88646,0,0,0,0,0,,10971,,,http://www.mapmyrun.com/workout/2165939927
+7-Mar-12,6-Mar-12,Run,0,4.88675,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/100038010
+4-Mar-12,4-Mar-12,Run,1160,10.63,5797,9.08906,4.87026,6.60135,12.3197,,0,,Unknown,http://www.mapmyrun.com/workout/99317110
 "Feb. 28, 2012","Feb. 28, 2012",Run,0,4.5312,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/98071442
 "Feb. 26, 2012","Feb. 26, 2012",Run,1216,10.09,6037,9.97192,5.85565,6.0169,10.2465,,0,,Unknown,http://www.mapmyrun.com/workout/97478194
 "Feb. 24, 2012","Feb. 24, 2012",Run,0,4.88675,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/96859394
 "Feb. 21, 2012","Feb. 21, 2012",Run,0,4.88675,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/96048846
 "Feb. 19, 2012","Feb. 19, 2012",Run,1103,9.38,5358,9.52026,6.07595,6.30235,9.875,,0,,Unknown,http://www.mapmyrun.com/workout/95562718
 "Feb. 12, 2012","Feb. 12, 2012",Run,0,8.40934,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/93891646
-"May 2, 2017","Feb. 9, 2012",Run,0,4.53104,0,0,0,0,0,,10173,,,http://www.mapmyrun.com/workout/2165939792
+2-May-17,"Feb. 9, 2012",Run,0,4.53104,0,0,0,0,0,,10173,,,http://www.mapmyrun.com/workout/2165939792
 "Feb. 10, 2012","Feb. 9, 2012",Run,0,4.5312,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/93338714
 "Feb. 2, 2012","Feb. 2, 2012",Run,500,4.53,2231,8.20824,2.85846,7.30973,20.9903,,0,,Unknown,http://www.mapmyrun.com/workout/91502290
 "Jan. 29, 2012","Jan. 29, 2012",Run,541,4.82,2185,7.55533,4.80501,7.94142,12.487,,0,,Unknown,http://www.mapmyrun.com/workout/90456090
@@ -608,10 +611,10 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Dec. 25, 2011","Dec. 25, 2011",Run,1142,10.4,5803,9.29968,4.88586,6.45184,12.2803,,0,,Unknown,http://www.mapmyrun.com/workout/83150868
 "Dec. 21, 2011","Dec. 21, 2011",Run,0,6.72716,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/82636896
 "Dec. 18, 2011","Dec. 18, 2011",Run,1073,9.73,5592,9.57862,3.95487,6.26395,15.1712,,0,,Unknown,http://www.mapmyrun.com/workout/82277956
-"May 2, 2017","Dec. 15, 2011",Run,0,8.98441,0,0,0,0,0,,20172,,,http://www.mapmyrun.com/workout/2165939708
+2-May-17,"Dec. 15, 2011",Run,0,8.98441,0,0,0,0,0,,20172,,,http://www.mapmyrun.com/workout/2165939708
 "Dec. 16, 2011","Dec. 15, 2011",Run,0,8.98449,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/82030304
 "Dec. 11, 2011","Dec. 9, 2011",Run,958,8.75,4468,8.51048,3.95594,7.05013,15.1671,,0,,Unknown,http://www.mapmyrun.com/workout/81359870
-"May 2, 2017","Dec. 6, 2011",Run,1037,9.41005,5400,9.56424248543,0,6.27336666667,0,,14486,,,http://www.mapmyrun.com/workout/2165939624
+2-May-17,"Dec. 6, 2011",Run,1037,9.41005,5400,9.564242485,0,6.273366667,0,,14486,,,http://www.mapmyrun.com/workout/2165939624
 "Dec. 11, 2011","Dec. 6, 2011",Run,1037,9.41059,5400,9.5637,0,6.27373,0,,0,,,http://www.mapmyrun.com/workout/81359722
 "Dec. 4, 2011","Dec. 4, 2011",Run,1183,10.73,6168,9.58062,2.92907,6.26265,20.4844,,0,,Unknown,http://www.mapmyrun.com/workout/80543348
 "Nov. 30, 2011","Nov. 30, 2011",Run,938,8.49,4940,9.69768,5.51372,6.18704,10.882,,0,,Unknown,http://www.mapmyrun.com/workout/80018348
@@ -628,7 +631,7 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Oct. 2, 2011","Oct. 2, 2011",Run,1103,9.24,4996,9.01154,3.95309,6.65813,15.178,,0,,Unknown,http://www.mapmyrun.com/workout/70621660
 "Sept. 30, 2011","Sept. 30, 2011",Run,0,6.32594,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/70319224
 "Sept. 28, 2011","Sept. 28, 2011",Run,691,6.33,3360,8.84676,0,6.78214,0,,0,,,http://www.mapmyrun.com/workout/69992350
-"Sept. 18, 2011","Sept. 18, 2011",Run,962,8.78,4478,8.5,0,7.05882352941,0,,0,,,http://www.mapmyrun.com/workout/68128208
+"Sept. 18, 2011","Sept. 18, 2011",Run,962,8.78,4478,8.5,0,7.058823529,0,,0,,,http://www.mapmyrun.com/workout/68128208
 "Sept. 18, 2011","Sept. 17, 2011",Run,1193,8.77934,4509,8.511,5.61006,7.0497,10.6951,,,,Unknown,http://www.mapmyrun.com/workout/68128062
 "Sept. 10, 2011","Sept. 10, 2011",Run,786,6.95,4500,10.7914,6.09682,5.56,9.84119,,0,,Unknown,http://www.mapmyrun.com/workout/66726596
 "Sept. 3, 2011","Sept. 3, 2011",Run,807,7.32,3600,8.19672,0,7.32,0,,0,,,http://www.mapmyrun.com/workout/65452132
@@ -637,39 +640,39 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Aug. 20, 2011","Aug. 20, 2011",Run,850,7.77,3960,8.49421,0,7.06364,0,,0,,,http://www.mapmyrun.com/workout/62744934
 "Aug. 14, 2011","Aug. 14, 2011",Run,879,7.77,4200,9.00901,0,6.66,0,,0,,,http://www.mapmyrun.com/workout/61554008
 "Aug. 6, 2011","Aug. 6, 2011",Run,0,8.46943,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/59986250
-"July 23, 2011","July 23, 2011",Run,0,7.63825,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/57280298
-"July 4, 2011","July 4, 2011",Run,0,6.85741,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/53412158
-"July 3, 2011","July 3, 2011",Run,0,6.85741,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/53349656
-"June 18, 2011","June 18, 2011",Run,0,7.7397,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/50924688
-"June 12, 2011","June 12, 2011",Run,0,3.16718,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/50023614
-"June 11, 2011","June 11, 2011",Run,0,7.7397,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/49898910
-"May 2, 2017","June 4, 2011",Run,0,8.46929,0,0,0,0,0,,19015,,,http://www.mapmyrun.com/workout/2165939546
-"June 5, 2011","June 4, 2011",Run,0,8.46943,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/48990012
-"May 28, 2011","May 28, 2011",Run,0,8.46943,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/47948734
-"May 2, 2017","May 24, 2011",Run,0,6.32556,0,0,0,0,0,,14202,,,http://www.mapmyrun.com/workout/2165939468
-"May 27, 2011","May 24, 2011",Run,0,6.32594,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/47867024
-"May 8, 2011","May 8, 2011",Run,1128,10.12,5700,9.38735,0,6.39158,0,,0,,,http://www.mapmyrun.com/workout/45391458
-"May 1, 2011","May 1, 2011",Run,1121,10.12,5460,8.99209,0,6.67253,0,,0,,,http://www.mapmyrun.com/workout/44626074
-"April 12, 2011","April 12, 2011",Run,701,6.33,3180,8.37283,0,7.16604,0,,0,,,http://www.mapmyrun.com/workout/42572022
-"April 12, 2011","April 12, 2011",Run,701,6.32594,3240,8.53629,0,7.02882,0,,0,,,http://www.mapmyrun.com/workout/42572014
-"May 2, 2017","March 25, 2011",Run,0,5.46744,0,0,0,0,0,,12276,,,http://www.mapmyrun.com/workout/2165939348
-"March 28, 2011","March 25, 2011",Run,0,5.46795,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/41117652
-"March 16, 2011","March 16, 2011",Run,0,6.72716,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/40137748
-"May 2, 2017","March 13, 2011",Run,1459,13.142,7200,9.13103028458,0,6.571,0,,19415,,,http://www.mapmyrun.com/workout/2165939264
-"March 16, 2011","March 13, 2011",Run,1459,13.1423,7200,9.11854,0,6.58,0,,0,,,http://www.mapmyrun.com/workout/40123156
-"March 6, 2011","March 6, 2011",Run,0,11.1131,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/39305696
+23-Jul-11,23-Jul-11,Run,0,7.63825,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/57280298
+4-Jul-11,4-Jul-11,Run,0,6.85741,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/53412158
+3-Jul-11,3-Jul-11,Run,0,6.85741,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/53349656
+18-Jun-11,18-Jun-11,Run,0,7.7397,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/50924688
+12-Jun-11,12-Jun-11,Run,0,3.16718,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/50023614
+11-Jun-11,11-Jun-11,Run,0,7.7397,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/49898910
+2-May-17,4-Jun-11,Run,0,8.46929,0,0,0,0,0,,19015,,,http://www.mapmyrun.com/workout/2165939546
+5-Jun-11,4-Jun-11,Run,0,8.46943,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/48990012
+28-May-11,28-May-11,Run,0,8.46943,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/47948734
+2-May-17,24-May-11,Run,0,6.32556,0,0,0,0,0,,14202,,,http://www.mapmyrun.com/workout/2165939468
+27-May-11,24-May-11,Run,0,6.32594,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/47867024
+8-May-11,8-May-11,Run,1128,10.12,5700,9.38735,0,6.39158,0,,0,,,http://www.mapmyrun.com/workout/45391458
+1-May-11,1-May-11,Run,1121,10.12,5460,8.99209,0,6.67253,0,,0,,,http://www.mapmyrun.com/workout/44626074
+12-Apr-11,12-Apr-11,Run,701,6.33,3180,8.37283,0,7.16604,0,,0,,,http://www.mapmyrun.com/workout/42572022
+12-Apr-11,12-Apr-11,Run,701,6.32594,3240,8.53629,0,7.02882,0,,0,,,http://www.mapmyrun.com/workout/42572014
+2-May-17,25-Mar-11,Run,0,5.46744,0,0,0,0,0,,12276,,,http://www.mapmyrun.com/workout/2165939348
+28-Mar-11,25-Mar-11,Run,0,5.46795,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/41117652
+16-Mar-11,16-Mar-11,Run,0,6.72716,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/40137748
+2-May-17,13-Mar-11,Run,1459,13.142,7200,9.131030285,0,6.571,0,,19415,,,http://www.mapmyrun.com/workout/2165939264
+16-Mar-11,13-Mar-11,Run,1459,13.1423,7200,9.11854,0,6.58,0,,0,,,http://www.mapmyrun.com/workout/40123156
+6-Mar-11,6-Mar-11,Run,0,11.1131,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/39305696
 "Feb. 27, 2011","Feb. 27, 2011",Run,0,12.839,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/38799544
 "Feb. 20, 2011","Feb. 20, 2011",Run,0,7.16026,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/38272424
 "Feb. 19, 2011","Feb. 19, 2011",Run,0,10.6981,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/38205528
 "Feb. 19, 2011","Feb. 19, 2011",Run,0,10.6981,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/38184956
-"May 2, 2017","Feb. 17, 2011",Run,0,6.20563,0,0,0,0,0,,13933,,,http://www.mapmyrun.com/workout/2165939174
+2-May-17,"Feb. 17, 2011",Run,0,6.20563,0,0,0,0,0,,13933,,,http://www.mapmyrun.com/workout/2165939174
 "Feb. 18, 2011","Feb. 17, 2011",Run,0,6.20622,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/38122122
 "Feb. 11, 2011","Feb. 11, 2011",Run,0,5.94529,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/37564724
 "Feb. 8, 2011","Feb. 8, 2011",Run,677,6.11,3300,9.00164,0,6.66545,0,,0,,,http://www.mapmyrun.com/workout/37333624
 "Feb. 5, 2011","Feb. 5, 2011",Run,1365,12.18,7200,9.85222,0,6.09,0,,0,,,http://www.mapmyrun.com/workout/37131178
-"May 2, 2017","Jan. 31, 2011",Run,0,5.24686,0,0,0,0,0,,11780,,,http://www.mapmyrun.com/workout/2165939069
+2-May-17,"Jan. 31, 2011",Run,0,5.24686,0,0,0,0,0,,11780,,,http://www.mapmyrun.com/workout/2165939069
 "Feb. 6, 2011","Jan. 31, 2011",Run,0,5.24721,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/37172294
-"May 2, 2017","Jan. 29, 2011",Run,0,4.92561,0,0,0,0,0,,11059,,,http://www.mapmyrun.com/workout/2165938979
+2-May-17,"Jan. 29, 2011",Run,0,4.92561,0,0,0,0,0,,11059,,,http://www.mapmyrun.com/workout/2165938979
 "Feb. 6, 2011","Jan. 29, 2011",Run,0,4.92581,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/37172072
 "Jan. 25, 2011","Jan. 25, 2011",Run,729,6.57,3600,9.13242,0,6.57,0,,0,,,http://www.mapmyrun.com/workout/36310208
 "Jan. 23, 2011","Jan. 23, 2011",Run,0,9.50538,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/36142942
@@ -679,14 +682,14 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Dec. 25, 2010","Dec. 25, 2010",Run,0,7.0261,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/34486208
 "Dec. 23, 2010","Dec. 23, 2010",Run,0,8.32518,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/34434318
 "Dec. 23, 2010","Dec. 23, 2010",Run,0,8.32518,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/34434312
-"May 2, 2017","Dec. 21, 2010",Run,0,5.46744,0,0,0,0,0,,12276,,,http://www.mapmyrun.com/workout/2165938877
+2-May-17,"Dec. 21, 2010",Run,0,5.46744,0,0,0,0,0,,12276,,,http://www.mapmyrun.com/workout/2165938877
 "Dec. 22, 2010","Dec. 21, 2010",Run,0,5.46795,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/34401582
-"May 2, 2017","Dec. 17, 2010",Run,530,4.62984,2400,8.63960741624,0,6.94476,0,,6513,,,http://www.mapmyrun.com/workout/2165938709
-"Dec. 20, 2010","Dec. 17, 2010",Run,530,4.63,2400,8.58,0,7.0,0,0,0,,,http://www.mapmyrun.com/workout/34330544
+2-May-17,"Dec. 17, 2010",Run,530,4.62984,2400,8.639607416,0,6.94476,0,,6513,,,http://www.mapmyrun.com/workout/2165938709
+"Dec. 20, 2010","Dec. 17, 2010",Run,530,4.63,2400,8.58,0,7,0,0,0,,,http://www.mapmyrun.com/workout/34330544
 "Dec. 16, 2010","Dec. 16, 2010",Run,607,5.13303,2400,7.79727,0,7.695,0,,0,,,http://www.mapmyrun.com/workout/34222660
-"May 2, 2017","Dec. 5, 2010",Run,2906,26.1759,14100,8.97772378409,0,6.68320851064,0,,38094,,,http://www.mapmyrun.com/workout/2165938553
+2-May-17,"Dec. 5, 2010",Run,2906,26.1759,14100,8.977723784,0,6.683208511,0,,38094,,,http://www.mapmyrun.com/workout/2165938553
 "Dec. 6, 2010","Dec. 5, 2010",Run,2906,26.1765,14100,8.97632,0,6.68426,0,,0,,,http://www.mapmyrun.com/workout/33891958
-"Dec. 1, 2010","Dec. 1, 2010",Run,323,2.85829,1500,8.74648828495,0,6.859896,0,,0,,,http://www.mapmyrun.com/workout/33727180
+"Dec. 1, 2010","Dec. 1, 2010",Run,323,2.85829,1500,8.746488285,0,6.859896,0,,0,,,http://www.mapmyrun.com/workout/33727180
 "Nov. 30, 2010","Nov. 30, 2010",Run,337,2.92909,1440,8.19113,0,7.325,0,,0,,,http://www.mapmyrun.com/workout/33689160
 "Nov. 28, 2010","Nov. 28, 2010",Run,905,7.98959,4200,8.76095,0,6.84857,0,,0,,,http://www.mapmyrun.com/workout/33610928
 "Nov. 23, 2010","Nov. 23, 2010",Run,0,4.71607,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/33445546
@@ -695,20 +698,20 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Nov. 14, 2010","Nov. 14, 2010",Run,1383,12.2981,6420,8.69919,0,6.8972,0,,0,,,http://www.mapmyrun.com/workout/33017607
 "Nov. 12, 2010","Nov. 12, 2010",Run,645,5.47,2550,7.76965,0,7.72235,0,,0,,,http://www.mapmyrun.com/workout/32934180
 "Nov. 10, 2010","Nov. 10, 2010",Run,0,5.54405,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/32838696
-"May 2, 2017","Nov. 9, 2010",Run,0,4.51985,0,0,0,0,0,,10148,,,http://www.mapmyrun.com/workout/2165938451
+2-May-17,"Nov. 9, 2010",Run,0,4.51985,0,0,0,0,0,,10148,,,http://www.mapmyrun.com/workout/2165938451
 "Nov. 10, 2010","Nov. 9, 2010",Run,0,4.52,0,0,0,0,0,,0,,,http://www.mapmyrun.com/workout/32839388
 "Nov. 7, 2010","Nov. 7, 2010",Run,2325,19.2,11280,9.79167,0,6.12766,0,,0,,,http://www.mapmyrun.com/workout/32696782
 "Nov. 5, 2010","Nov. 5, 2010",Run,436,3.81,1860,8.13648,0,7.37419,0,,0,,,http://www.mapmyrun.com/workout/32610024
 "Nov. 4, 2010","Nov. 4, 2010",Run,646,5.68,2760,8.09859,0,7.4087,0,,0,,,http://www.mapmyrun.com/workout/32572778
 "Nov. 2, 2010","Nov. 2, 2010",Run,1513,13.6,7020,8.60294,0,6.97436,0,,0,,,http://www.mapmyrun.com/workout/32499342
-"May 2, 2017","Oct. 28, 2010",Run,0,7.97965,0,0,0,0,0,,17916,,,http://www.mapmyrun.com/workout/2165938358
+2-May-17,"Oct. 28, 2010",Run,0,7.97965,0,0,0,0,0,,17916,,,http://www.mapmyrun.com/workout/2165938358
 "Oct. 29, 2010","Oct. 28, 2010",Run,0,7.98,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/32304320
 "Oct. 26, 2010","Oct. 26, 2010",Run,657,5.5,2190,6.63636,0,9.0411,0,,,,,http://www.mapmyrun.com/workout/32178248
 "Oct. 24, 2010","Oct. 24, 2010",Run,0,13.1423,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/32088102
-"May 2, 2017","Oct. 21, 2010",Run,0,5.49976,0,0,0,0,0,,12348,,,http://www.mapmyrun.com/workout/2165938250
+2-May-17,"Oct. 21, 2010",Run,0,5.49976,0,0,0,0,0,,12348,,,http://www.mapmyrun.com/workout/2165938250
 "Oct. 26, 2010","Oct. 21, 2010",Run,0,5.5,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/32178290
 "Oct. 20, 2010","Oct. 20, 2010",Run,0,8.11757,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/31895884
-"May 2, 2017","Oct. 19, 2010",Run,0,5.49789,0,0,0,0,0,,12344,,,http://www.mapmyrun.com/workout/2165938157
+2-May-17,"Oct. 19, 2010",Run,0,5.49789,0,0,0,0,0,,12344,,,http://www.mapmyrun.com/workout/2165938157
 "Oct. 20, 2010","Oct. 19, 2010",Run,0,5.49827,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/31881844
 "Oct. 17, 2010","Oct. 17, 2010",Run,850,18.36,9720,8.82353,0,6.8,0,,,,,http://www.mapmyrun.com/workout/31710586
 "Oct. 18, 2010","Oct. 15, 2010",Run,374,3.15,1297,6.87,5.82,8.74,10.26,0,,Imported Workout,,http://www.mapmyrun.com/workout/31751018
@@ -716,24 +719,24 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Oct. 13, 2010","Oct. 13, 2010",Run,0,5.9542,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/31543492
 "Oct. 9, 2010","Oct. 9, 2010",Run,2202,19.0745,10680,9.33183,0,6.42961,0,,,,,http://www.mapmyrun.com/workout/31300774
 "Oct. 6, 2010","Oct. 6, 2010",Run,0,5.98254,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/31156302
-"May 2, 2017","Oct. 5, 2010",Run,0,5.27171,0,0,0,0,0,,11836,,,http://www.mapmyrun.com/workout/2165938061
+2-May-17,"Oct. 5, 2010",Run,0,5.27171,0,0,0,0,0,,11836,,,http://www.mapmyrun.com/workout/2165938061
 "Oct. 6, 2010","Oct. 5, 2010",Run,0,5.2721,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/31135694
 "Oct. 3, 2010","Oct. 3, 2010",Run,0,10.9694,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/31008190
 "Sept. 30, 2010","Sept. 30, 2010",Run,0,7.25876,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/30867684
 "Sept. 29, 2010","Sept. 29, 2010",Run,0,3.5184,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/30820422
 "Sept. 27, 2010","Sept. 27, 2010",Run,1695,15.13,8220,9.05486,0,6.62628,0,,,,,http://www.mapmyrun.com/workout/30699408
-"Sept. 26, 2010","Sept. 26, 2010",Run,641,5.56,2880,8.58,0,7.0,0,0,0,,,http://www.mapmyrun.com/workout/30631578
-"Sept. 23, 2010","Sept. 23, 2010",Run,784,7.0261,3780,8.96656751256,0,6.69152380952,0,,,,,http://www.mapmyrun.com/workout/30501982
+"Sept. 26, 2010","Sept. 26, 2010",Run,641,5.56,2880,8.58,0,7,0,0,0,,,http://www.mapmyrun.com/workout/30631578
+"Sept. 23, 2010","Sept. 23, 2010",Run,784,7.0261,3780,8.966567513,0,6.69152381,0,,,,,http://www.mapmyrun.com/workout/30501982
 "Sept. 22, 2010","Sept. 22, 2010",Run,507,4.53,2340,8.60927,0,6.96923,0,,,,,http://www.mapmyrun.com/workout/30433188
 "Sept. 20, 2010","Sept. 20, 2010",Run,1586,14.2,7650,8.97887,0,6.68235,0,,,,,http://www.mapmyrun.com/workout/30287988
 "Sept. 16, 2010","Sept. 16, 2010",Run,0,3.81386,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/30089524
 "Sept. 15, 2010","Sept. 15, 2010",Run,796,7.0261,3840,9.10889,0,6.58697,0,,,,,http://www.mapmyrun.com/workout/30044590
-"May 2, 2017","Sept. 14, 2010",Run,0,4.35954,0,0,0,0,0,,9788,,,http://www.mapmyrun.com/workout/2165937956
+2-May-17,"Sept. 14, 2010",Run,0,4.35954,0,0,0,0,0,,9788,,,http://www.mapmyrun.com/workout/2165937956
 "Sept. 15, 2010","Sept. 14, 2010",Run,0,4.36,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/30044760
 "Sept. 13, 2010","Sept. 13, 2010",Run,0,9.83882,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/29898174
 "Sept. 10, 2010","Sept. 10, 2010",Run,638,5.56,3000,8.98,0,6.67,0,0,,,,http://www.mapmyrun.com/workout/29756574
 "Sept. 9, 2010","Sept. 9, 2010",Run,650,5.57,2760,8.25,0,7.27,0,,,,,http://www.mapmyrun.com/workout/29697020
-"May 2, 2017","Sept. 6, 2010",Run,1523,13.0997,6298,8.01290614798,0,7.4879199746,0,,17250,,,http://www.mapmyrun.com/workout/2165937872
+2-May-17,"Sept. 6, 2010",Run,1523,13.0997,6298,8.012906148,0,7.487919975,0,,17250,,,http://www.mapmyrun.com/workout/2165937872
 "Sept. 7, 2010","Sept. 6, 2010",Run,1523,13.1,6298,8.02,0,7.49,0,0,0,,,http://www.mapmyrun.com/workout/29558310
 "Sept. 2, 2010","Sept. 2, 2010",Run,0,5.49827,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/29298088
 "Aug. 29, 2010","Aug. 29, 2010",Run,0,11.11,6840,10.26,0,5.85,0,,,,,http://www.mapmyrun.com/workout/29045018
@@ -746,68 +749,68 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Aug. 9, 2010","Aug. 9, 2010",Run,0,5.77,2820,8.15,0,7.37,0,,,,,http://www.mapmyrun.com/workout/27797822
 "Aug. 9, 2010","Aug. 9, 2010",Run,0,4.53,0,0,0,0,0,,,,,http://www.mapmyrun.com/workout/27797764
 "Aug. 1, 2010","Aug. 1, 2010",Run,1315,11.47,6120,8.81,0,6.81,0,,,,,http://www.mapmyrun.com/workout/27275922
-"July 28, 2010","July 28, 2010",Run,625,5.56,2880,8.63,0,6.95,0,,,,,http://www.mapmyrun.com/workout/27070986
-"July 25, 2010","July 25, 2010",Run,1301,11.35,6000,8.81,0,6.81,0,,,,,http://www.mapmyrun.com/workout/26850136
-"July 23, 2010","July 23, 2010",Run,665,5.56,2850,8.45,0,7.1,0,,,,,http://www.mapmyrun.com/workout/26764234
-"July 21, 2010","July 21, 2010",Run,664,5.77,2850,8.15,0,7.37,0,,,,,http://www.mapmyrun.com/workout/26632246
-"July 17, 2010","July 17, 2010",Run,1223,10.57,5640,8.89,0,6.75,0,,,,,http://www.mapmyrun.com/workout/26370908
-"July 15, 2010","July 15, 2010",Run,637,5.56193,2700,8.09,0,7.42,0,,,,,http://www.mapmyrun.com/workout/26274502
-"July 13, 2010","July 13, 2010",Run,665,5.76863,2820,8.15,0,7.36,0,,,,,http://www.mapmyrun.com/workout/26137026
-"July 9, 2010","July 9, 2010",Run,1222,10.5,6060,5.71,0,10.5,0,,,,,http://www.mapmyrun.com/workout/25882412
-"July 8, 2010","July 8, 2010",Run,697,5.94,3600,10.08,0,5.9,0,0,0,,,http://www.mapmyrun.com/workout/25821548
-"July 5, 2010","July 5, 2010",Run,0,10.5673,5580,8.8,0,6.82,0,,,,,http://www.mapmyrun.com/workout/25617342
-"June 27, 2010","June 27, 2010",Run,1015,8.83,4890,9.2,0,6.5,0,,,,,http://www.mapmyrun.com/workout/25161124
-"June 19, 2010","June 19, 2010",Run,1085,8.83,5100,9.58,0,6.2,0,0,0,,,http://www.mapmyrun.com/workout/24735390
-"June 5, 2010","June 5, 2010",Run,1007,8.47,4320,8.5,0,7.06,0,,,,,http://www.mapmyrun.com/workout/24002272
-"May 30, 2010","May 30, 2010",Run,965,8.32,4140,8.29,0,7.23,0,,,,,http://www.mapmyrun.com/workout/23691492
-"May 26, 2010","May 26, 2010",Run,476,4.0,2040,8.5,0,7.06,0,,,,,http://www.mapmyrun.com/workout/23521996
-"May 22, 2010","May 22, 2010",Run,937,7.07,4020,9.47,0,6.33,0,,,,,http://www.mapmyrun.com/workout/23292688
-"May 19, 2010","May 19, 2010",Run,511,4.33,2190,8.42,0,7.12,0,,,,,http://www.mapmyrun.com/workout/23136802
-"May 15, 2010","May 15, 2010",Run,813,6.64369,3360,8.4,0,7.1,0,0,0,,,http://www.mapmyrun.com/workout/22939690
-"May 8, 2010","May 8, 2010",Run,798,6.48,3300,8.5,0,7.1,0,0,0,,,http://www.mapmyrun.com/workout/22611637
-"May 4, 2010","May 4, 2010",Run,427,3.58,1920,8.93,0,6.71,0,0,,,,http://www.mapmyrun.com/workout/22425457
-"April 27, 2010","April 27, 2010",Run,708,6.06,3180,8.68,0,6.9,0,0,0,,,http://www.mapmyrun.com/workout/22080831
-"April 24, 2010","April 24, 2010",Run,728,6.09,3420,9.4,0,6.4,0,0,0,,,http://www.mapmyrun.com/workout/21913595
-"April 15, 2010","April 15, 2010",Run,511,4.44,2400,9.0,0,6.7,0,0,0,,,http://www.mapmyrun.com/workout/21444642
-"April 13, 2010","April 13, 2010",Run,613,5.22,2880,9.18,0,6.5,0,0,0,,,http://www.mapmyrun.com/workout/21339378
-"April 11, 2010","April 11, 2010",Run,958,8.22,4200,9.12,0,6.58,0,0,,,,http://www.mapmyrun.com/workout/21219796
-"April 6, 2010","April 6, 2010",Run,435,3.58,1800,8.4,0,7.2,0,0,0,,,http://www.mapmyrun.com/workout/20978462
-"March 21, 2010","March 21, 2010",Generic,694,5.95,3120,8.68,0,6.9,0,0,0,,,http://www.mapmyrun.com/workout/20252634
-"March 19, 2010","March 19, 2010",Generic,537,4.33,2220,8.5,0,7.0,0,0,0,,,http://www.mapmyrun.com/workout/20144378
-"March 16, 2010","March 16, 2010",Generic,511,4.33,2400,9.18,0,6.5,0,0,0,,,http://www.mapmyrun.com/workout/20011300
+28-Jul-10,28-Jul-10,Run,625,5.56,2880,8.63,0,6.95,0,,,,,http://www.mapmyrun.com/workout/27070986
+25-Jul-10,25-Jul-10,Run,1301,11.35,6000,8.81,0,6.81,0,,,,,http://www.mapmyrun.com/workout/26850136
+23-Jul-10,23-Jul-10,Run,665,5.56,2850,8.45,0,7.1,0,,,,,http://www.mapmyrun.com/workout/26764234
+21-Jul-10,21-Jul-10,Run,664,5.77,2850,8.15,0,7.37,0,,,,,http://www.mapmyrun.com/workout/26632246
+17-Jul-10,17-Jul-10,Run,1223,10.57,5640,8.89,0,6.75,0,,,,,http://www.mapmyrun.com/workout/26370908
+15-Jul-10,15-Jul-10,Run,637,5.56193,2700,8.09,0,7.42,0,,,,,http://www.mapmyrun.com/workout/26274502
+13-Jul-10,13-Jul-10,Run,665,5.76863,2820,8.15,0,7.36,0,,,,,http://www.mapmyrun.com/workout/26137026
+9-Jul-10,9-Jul-10,Run,1222,10.5,6060,5.71,0,10.5,0,,,,,http://www.mapmyrun.com/workout/25882412
+8-Jul-10,8-Jul-10,Run,697,5.94,3600,10.08,0,5.9,0,0,0,,,http://www.mapmyrun.com/workout/25821548
+5-Jul-10,5-Jul-10,Run,0,10.5673,5580,8.8,0,6.82,0,,,,,http://www.mapmyrun.com/workout/25617342
+27-Jun-10,27-Jun-10,Run,1015,8.83,4890,9.2,0,6.5,0,,,,,http://www.mapmyrun.com/workout/25161124
+19-Jun-10,19-Jun-10,Run,1085,8.83,5100,9.58,0,6.2,0,0,0,,,http://www.mapmyrun.com/workout/24735390
+5-Jun-10,5-Jun-10,Run,1007,8.47,4320,8.5,0,7.06,0,,,,,http://www.mapmyrun.com/workout/24002272
+30-May-10,30-May-10,Run,965,8.32,4140,8.29,0,7.23,0,,,,,http://www.mapmyrun.com/workout/23691492
+26-May-10,26-May-10,Run,476,4,2040,8.5,0,7.06,0,,,,,http://www.mapmyrun.com/workout/23521996
+22-May-10,22-May-10,Run,937,7.07,4020,9.47,0,6.33,0,,,,,http://www.mapmyrun.com/workout/23292688
+19-May-10,19-May-10,Run,511,4.33,2190,8.42,0,7.12,0,,,,,http://www.mapmyrun.com/workout/23136802
+15-May-10,15-May-10,Run,813,6.64369,3360,8.4,0,7.1,0,0,0,,,http://www.mapmyrun.com/workout/22939690
+8-May-10,8-May-10,Run,798,6.48,3300,8.5,0,7.1,0,0,0,,,http://www.mapmyrun.com/workout/22611637
+4-May-10,4-May-10,Run,427,3.58,1920,8.93,0,6.71,0,0,,,,http://www.mapmyrun.com/workout/22425457
+27-Apr-10,27-Apr-10,Run,708,6.06,3180,8.68,0,6.9,0,0,0,,,http://www.mapmyrun.com/workout/22080831
+24-Apr-10,24-Apr-10,Run,728,6.09,3420,9.4,0,6.4,0,0,0,,,http://www.mapmyrun.com/workout/21913595
+15-Apr-10,15-Apr-10,Run,511,4.44,2400,9,0,6.7,0,0,0,,,http://www.mapmyrun.com/workout/21444642
+13-Apr-10,13-Apr-10,Run,613,5.22,2880,9.18,0,6.5,0,0,0,,,http://www.mapmyrun.com/workout/21339378
+11-Apr-10,11-Apr-10,Run,958,8.22,4200,9.12,0,6.58,0,0,,,,http://www.mapmyrun.com/workout/21219796
+6-Apr-10,6-Apr-10,Run,435,3.58,1800,8.4,0,7.2,0,0,0,,,http://www.mapmyrun.com/workout/20978462
+21-Mar-10,21-Mar-10,Generic,694,5.95,3120,8.68,0,6.9,0,0,0,,,http://www.mapmyrun.com/workout/20252634
+19-Mar-10,19-Mar-10,Generic,537,4.33,2220,8.5,0,7,0,0,0,,,http://www.mapmyrun.com/workout/20144378
+16-Mar-10,16-Mar-10,Generic,511,4.33,2400,9.18,0,6.5,0,0,0,,,http://www.mapmyrun.com/workout/20011300
 "Feb. 2, 2010","Feb. 2, 2010",Run,577,4.53,2700,9.9,0,6.1,0,0,0,,,http://www.mapmyrun.com/workout/18446596
 "Dec. 24, 2009","Dec. 24, 2009",Run,586,4.87,2430,8.3,0,7.2,0,0,0,,,http://www.mapmyrun.com/workout/17170282
-"Aug. 24, 2009","Aug. 24, 2009",Run,798,6.97,3600,8.58,0,7.0,0,0,0,,,http://www.mapmyrun.com/workout/13565288
+"Aug. 24, 2009","Aug. 24, 2009",Run,798,6.97,3600,8.58,0,7,0,0,0,,,http://www.mapmyrun.com/workout/13565288
 "Aug. 22, 2009","Aug. 22, 2009",Run,585,5.01,2640,8.8,0,6.8,0,0,0,,,http://www.mapmyrun.com/workout/13466043
-"July 26, 2009","July 26, 2009",Run,838,7.12,3780,8.8,0,6.8,0,0,0,,,http://www.mapmyrun.com/workout/12385664
-"July 24, 2009","July 24, 2009",Run,795,6.6,3300,8.3,0,7.2,0,0,0,,,http://www.mapmyrun.com/workout/12297084
-"May 2, 2017","July 20, 2009",Run,585,4.69943,2760,9.78842114895,0,6.12969130435,0,,7386,,,http://www.mapmyrun.com/workout/2165937806
-"July 24, 2009","July 20, 2009",Run,585,4.7,2760,9.8,0,6.1,0,0,0,,,http://www.mapmyrun.com/workout/12292742
-"July 10, 2009","July 10, 2009",Run,1244,10.61,5160,8.08,0,7.4,0,0,0,,,http://www.mapmyrun.com/workout/11571980
-"July 5, 2009","July 5, 2009",Run,1144,9.81,5160,8.8,0,6.8,0,0,0,,,http://www.mapmyrun.com/workout/11304104
-"July 1, 2009","July 1, 2009",Run,562,4.53,2160,7.93,0,7.55,0,0,,,,http://www.mapmyrun.com/workout/11166814
-"June 28, 2009","June 28, 2009",Run,983,8.47,4080,8.02,0,7.47,0,0,,,,http://www.mapmyrun.com/workout/11024280
-"June 21, 2009","June 21, 2009",Run,969,7.93,4020,8.4,0,7.1,0,0,0,,,http://www.mapmyrun.com/workout/10771260
-"June 14, 2009","June 14, 2009",Run,750,6.04,2880,7.9,0,7.6,0,0,0,,,http://www.mapmyrun.com/workout/10508916
-"June 11, 2009","June 11, 2009",Run,535,4.53,2220,8.17,0,7.35,0,0,,,,http://www.mapmyrun.com/workout/10410162
-"May 24, 2009","May 24, 2009",Bike Ride,555,12.58,3600,4.78,0,12.6,0,0,0,,,http://www.mapmyrun.com/workout/9705225
-"May 17, 2009","May 17, 2009",Run,557,4.53,2310,8.48,0,7.06,0,0,,,,http://www.mapmyrun.com/workout/9462695
-"April 6, 2009","April 6, 2009",Run,559,4.7,2520,8.9,0,6.7,0,0,0,,,http://www.mapmyrun.com/workout/8283215
-"May 2, 2017","Nov. 17, 2008",Run,534,4.5298,2400,8.83041193872,0,6.7947,0,,6496,,,http://www.mapmyrun.com/workout/2165937692
+26-Jul-09,26-Jul-09,Run,838,7.12,3780,8.8,0,6.8,0,0,0,,,http://www.mapmyrun.com/workout/12385664
+24-Jul-09,24-Jul-09,Run,795,6.6,3300,8.3,0,7.2,0,0,0,,,http://www.mapmyrun.com/workout/12297084
+2-May-17,20-Jul-09,Run,585,4.69943,2760,9.788421149,0,6.129691304,0,,7386,,,http://www.mapmyrun.com/workout/2165937806
+24-Jul-09,20-Jul-09,Run,585,4.7,2760,9.8,0,6.1,0,0,0,,,http://www.mapmyrun.com/workout/12292742
+10-Jul-09,10-Jul-09,Run,1244,10.61,5160,8.08,0,7.4,0,0,0,,,http://www.mapmyrun.com/workout/11571980
+5-Jul-09,5-Jul-09,Run,1144,9.81,5160,8.8,0,6.8,0,0,0,,,http://www.mapmyrun.com/workout/11304104
+1-Jul-09,1-Jul-09,Run,562,4.53,2160,7.93,0,7.55,0,0,,,,http://www.mapmyrun.com/workout/11166814
+28-Jun-09,28-Jun-09,Run,983,8.47,4080,8.02,0,7.47,0,0,,,,http://www.mapmyrun.com/workout/11024280
+21-Jun-09,21-Jun-09,Run,969,7.93,4020,8.4,0,7.1,0,0,0,,,http://www.mapmyrun.com/workout/10771260
+14-Jun-09,14-Jun-09,Run,750,6.04,2880,7.9,0,7.6,0,0,0,,,http://www.mapmyrun.com/workout/10508916
+11-Jun-09,11-Jun-09,Run,535,4.53,2220,8.17,0,7.35,0,0,,,,http://www.mapmyrun.com/workout/10410162
+24-May-09,24-May-09,Bike Ride,555,12.58,3600,4.78,0,12.6,0,0,0,,,http://www.mapmyrun.com/workout/9705225
+17-May-09,17-May-09,Run,557,4.53,2310,8.48,0,7.06,0,0,,,,http://www.mapmyrun.com/workout/9462695
+6-Apr-09,6-Apr-09,Run,559,4.7,2520,8.9,0,6.7,0,0,0,,,http://www.mapmyrun.com/workout/8283215
+2-May-17,"Nov. 17, 2008",Run,534,4.5298,2400,8.830411939,0,6.7947,0,,6496,,,http://www.mapmyrun.com/workout/2165937692
 "Nov. 20, 2008","Nov. 17, 2008",Run,534,4.53,2400,8.83,0,6.8,0,0,,,,http://www.mapmyrun.com/workout/5649810
 "Oct. 21, 2008","Oct. 21, 2008",Run,655,5.53,2940,8.87,0,6.77,0,0,,,,http://www.mapmyrun.com/workout/5119937
 "Sept. 7, 2008","Sept. 7, 2008",Run,553,4.54,2040,7.48,0,8.02,0,0,,seahawks opening game... they\'re down 7-0,,http://www.mapmyrun.com/workout/4476279
-"July 4, 2008","July 4, 2008",Run,601,4.4863,3000,4.16,0,8.66,0,0,,,,http://www.mapmyrun.com/workout/3347334
-"June 14, 2008","June 14, 2008",Run,561,4.87,2940,10.07,0,5.96,0,0,,,,http://www.mapmyrun.com/workout/3007135
-"May 6, 2008","May 6, 2008",Run,541,4.53,2580,9.48,0,6.32,0,0,,,,http://www.mapmyrun.com/workout/2428851
-"May 4, 2008","May 4, 2008",Run,541,4.63,2580,9.28,0,6.46,0,0,,,,http://www.mapmyrun.com/workout/2396794
-"April 22, 2008","April 22, 2008",Run,566,4.53,2700,9.93,0,6.04,0,0,,,,http://www.mapmyrun.com/workout/2237333
-"March 22, 2008","March 22, 2008",Run,386,3.25134,1500,7.68,0,7.8,0,0,,,,http://www.mapmyrun.com/workout/1845147
-"March 16, 2008","March 16, 2008",Run,513,4.53,2340,8.6,0,6.97,0,0,,,,http://www.mapmyrun.com/workout/1773016
-"May 2, 2017","March 9, 2008",Run,386,3.25101,1500,7.68991790244,0,7.802424,0,,4130,,,http://www.mapmyrun.com/workout/2165937566
-"March 16, 2008","March 9, 2008",Run,386,3.25134,1500,7.68,0,7.8,0,0,,,,http://www.mapmyrun.com/workout/1773036
+4-Jul-08,4-Jul-08,Run,601,4.4863,3000,4.16,0,8.66,0,0,,,,http://www.mapmyrun.com/workout/3347334
+14-Jun-08,14-Jun-08,Run,561,4.87,2940,10.07,0,5.96,0,0,,,,http://www.mapmyrun.com/workout/3007135
+6-May-08,6-May-08,Run,541,4.53,2580,9.48,0,6.32,0,0,,,,http://www.mapmyrun.com/workout/2428851
+4-May-08,4-May-08,Run,541,4.63,2580,9.28,0,6.46,0,0,,,,http://www.mapmyrun.com/workout/2396794
+22-Apr-08,22-Apr-08,Run,566,4.53,2700,9.93,0,6.04,0,0,,,,http://www.mapmyrun.com/workout/2237333
+22-Mar-08,22-Mar-08,Run,386,3.25134,1500,7.68,0,7.8,0,0,,,,http://www.mapmyrun.com/workout/1845147
+16-Mar-08,16-Mar-08,Run,513,4.53,2340,8.6,0,6.97,0,0,,,,http://www.mapmyrun.com/workout/1773016
+2-May-17,9-Mar-08,Run,386,3.25101,1500,7.689917902,0,7.802424,0,,4130,,,http://www.mapmyrun.com/workout/2165937566
+16-Mar-08,9-Mar-08,Run,386,3.25134,1500,7.68,0,7.8,0,0,,,,http://www.mapmyrun.com/workout/1773036
 "Feb. 24, 2008","Feb. 24, 2008",Run,529,4.53,2520,9.27,0,6.47,0,0,,,,http://www.mapmyrun.com/workout/1557009
-"May 2, 2017","Feb. 23, 2008",Run,529,4.62984,2520,9.07158778705,0,6.61405714286,0,,6800,,,http://www.mapmyrun.com/workout/2165937458
+2-May-17,"Feb. 23, 2008",Run,529,4.62984,2520,9.071587787,0,6.614057143,0,,6800,,,http://www.mapmyrun.com/workout/2165937458
 "Feb. 24, 2008","Feb. 23, 2008",Run,529,4.63,2520,9.07,0,6.61,0,0,,,,http://www.mapmyrun.com/workout/1557011
 "Feb. 17, 2008","Feb. 17, 2008",Run,513,4.53,2340,8.6,0,6.97,0,0,,,,http://www.mapmyrun.com/workout/1484419
 "Feb. 10, 2008","Feb. 10, 2008",Run,513,4.53,2340,8.6,0,6.97,0,0,,,,http://www.mapmyrun.com/workout/1407053
@@ -816,9 +819,9 @@ Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),W
 "Jan. 20, 2008","Jan. 20, 2008",Run,546,4.63,2580,9.28,0,6.46,0,0,,,,http://www.mapmyrun.com/workout/1198636
 "Jan. 13, 2008","Jan. 13, 2008",Run,777,6.63,3540,8.88,0,6.74,0,0,,,,http://www.mapmyrun.com/workout/1120064
 "Jan. 6, 2008","Jan. 6, 2008",Run,520,4.53,2460,9.05,0,6.63,0,0,,,,http://www.mapmyrun.com/workout/1047752
-"May 2, 2017","Dec. 23, 2007",Run,558,4.62984,2640,9.50356815786,0,6.31341818182,0,,7087,,,http://www.mapmyrun.com/workout/2165937344
+2-May-17,"Dec. 23, 2007",Run,558,4.62984,2640,9.503568158,0,6.313418182,0,,7087,,,http://www.mapmyrun.com/workout/2165937344
 "Jan. 6, 2008","Dec. 23, 2007",Run,558,4.63,2640,9.5,0,6.31,0,0,,,,http://www.mapmyrun.com/workout/1047742
-"May 2, 2017","Dec. 22, 2007",Run,558,4.62984,2640,9.50356815786,0,6.31341818182,0,,7087,,,http://www.mapmyrun.com/workout/2165937290
+2-May-17,"Dec. 22, 2007",Run,558,4.62984,2640,9.503568158,0,6.313418182,0,,7087,,,http://www.mapmyrun.com/workout/2165937290
 "Jan. 6, 2008","Dec. 22, 2007",Run,558,4.63,2640,9.5,0,6.31,0,0,,,,http://www.mapmyrun.com/workout/1047732
 "Dec. 16, 2007","Dec. 16, 2007",Run,513,4.53,2340,8.6,0,6.97,0,0,,,,http://www.mapmyrun.com/workout/943885
 "Dec. 9, 2007","Dec. 9, 2007",Run,547,4.63,2476,8.92,0,6.73,0,0,,,,http://www.mapmyrun.com/workout/913553

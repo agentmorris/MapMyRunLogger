@@ -1,0 +1,59 @@
+<html>
+<head>
+<script src="sorttable.js"></script>
+<title>Dan's Running Log</title>
+<link rel="stylesheet" type="text/css" href="run.css" /></head>
+
+<body style="text-align:center;">
+<center>
+
+<img src="runlog.png" style="margin:0px; margin-top:25px;" />
+
+<div class="introdiv">
+
+<p class="introp">I discovered running around 2010 (not coincidentally around when I discovered podcasts).  Being a nerd and a collector, I remain in part motivated by the fact that every time I go running with a GPS watch on, I feel like I&rsquo;m collecting shiny things.  I primarily collected shiny things via mapmyrun.com, but I am among the many folks who have become frustrated that they make it so hard to export data, so Irsquo;ve moved to Strava.</p>
+
+<p class="introp">But at the time I did that (2017), since MMR didnrsquo;t provide a bulk export feature, I wrote code to crawl my workouts at mapmyrun.com; from the output (.tcx files), I could import everything into Strava.  Now I have my whole MapMyRun history in my <a href="http://strava.com/athletes/agentmorris">Strava account</a>.</p>
+
+<p class="introp">And while I was doing it, I figured: why not make a shiny thing out of all those shiny things?  So I generated this page of every workout Irsquo;ve done since 2010 that a few lines of code determined to be &ldquo;interesting&rdquo;, which is vaguely defined as &ldquo;long&rdquo;, &ldquo;fast&rdquo; (fast for me, not fast in an absolute sense), or &ldquo;not in the Seattle area&rdquo;.  This table is generally sorted by my personal metric of &ldquo;interestingness&rdquo;.</p>
+
+<p class="introp">The code is available on <a href="https://github.com/agentmorris/MapMyRunLogger">GitHub</a>.
+
+</div>
+</div>
+</center>
+
+<div style="text-align:center;margin:0px;padding:0px;" width=100%>
+<table class="runtable sortable" align="center">
+
+<tr class="headertrclass">
+<td class="runtdclass headertdclass"><p class="headerpclass">Date</p></td>
+<td class="runtdclass headertdclass"><p class="headerpclass">Time</p></td>
+<td class="runtdclass headertdclass"><p class="headerpclass">Distance (miles)</p></td>
+<td class="runtdclass headertdclass"><p class="headerpclass">Pace</p></td>
+<td class="runtdclass headertdclass"><p class="headerpclass">Name</p></td>
+<td class="runtdclass headertdclass"><p class="headerpclass">Location</p></td>
+<td class="runtdclass headertdclass" style="padding:0px;"><p class="headerpclass">Pretty Picture</p></td>
+</tr>
+
+$CONTENT
+<!--
+<tr class="runtrclass">
+<td class="runtdclass evenruntdclass"><p class="innerpclass">Mar 16, 2010</p></td>
+<td class="runtdclass evenruntdclass"><p class="innerpclass">00:40:00</p></td>
+<td class="runtdclass evenruntdclass"><p class="innerpclass">4.33</p></td>
+<td class="runtdclass evenruntdclass"><p class="innerpclass">511</p></td>
+<td class="runtdclass evenruntdclass"><p class="innerpclass">North Mercer Island loop from QFC</p></td>
+<td class="runtdclass evenruntdclass"><p class="innerpclass">Mercer Island, WA</p></td>
+<td class="runtdclass evenruntdclass"><a href="images/workout.085.kml.png"><img class="thumbnailimg" src="thumbs/workout.085.kml.png"/></a></td>
+</tr>
+-->
+
+</tr>
+</table>
+</div>
+</body>
+
+</html>
+
+

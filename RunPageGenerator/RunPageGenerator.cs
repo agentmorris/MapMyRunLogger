@@ -17,6 +17,9 @@ using System.Text;
 using System.Xml;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.Drawing.Imaging;
 
 namespace MapMyRunLogger
 {
@@ -27,8 +30,11 @@ namespace MapMyRunLogger
         const String HTML_TEMPLATE = "run_log_template.html";
         const String HTML_OUTPUT_FILE = "index.html";
 
-		// I used this list to manually ignore runs that were uninteresting, but in ways that
-		// weren't easy to automate.
+        const int THUMBNAIL_W = 150;
+        const int THUMBNAIL_H = 75;
+
+        // I used this list to manually ignore runs that were uninteresting, but in ways that
+        // weren't easy to automate.
         static List<String> ignoreIds = new List<String>()
         {
             "191148587", "2165938553"
@@ -86,7 +92,7 @@ namespace MapMyRunLogger
             // Decide whether we're going to include this workout
             foreach (String workoutFile in workoutFiles)
             {
-				// Read the data for this workout
+                // Read the data for this workout
                 Workout w = null;
                 using (XmlReader reader = XmlReader.Create(workoutFile)) { w = (Workout)xmlSerializer.Deserialize(reader); }
 
@@ -142,32 +148,56 @@ namespace MapMyRunLogger
                 w.startLocation = location;
                 location = location.ToLower().Trim();
 
+                double minutesPerMile = (w.durationSeconds / 60) / w.distanceMiles;
+
+                // Not runs... this is likely one of the few times I got on a bike...
+                if (minutesPerMile < 5) continue;
+
+                w.paceMinutesPerMile = minutesPerMile;
+
+                // First determine if we want to keep this run...
+
                 // if (w.title.Length > 0) interesting = true;
 
                 // Long runs are interesting
                 if (w.distanceMiles >= 15) interesting = true;
 
                 // Fast runs are interesting
-                double minutesPerMile = (w.durationSeconds / 60) / w.distanceMiles;
                 if (minutesPerMile < 8) interesting = true;
 
-                // Not runs... this is likely one of the few times I got on a bike...
-                if (minutesPerMile < 5) continue;
-
-				// Give weights (priorities) to runs that will affect how they get sorted in the output list
-                if (w.distanceMiles >= 25) w.weight = 10.0;
-                else if (w.distanceMiles >= 12.2 && minutesPerMile < 8) w.weight = 5.0;
-                else if (minutesPerMile <= 6.75) w.weight = 3.0;
-                else if (!location.Contains("wa")) w.weight = 2.0;
-                else if (titleString.Contains("x")) w.weight = 1.0;
-
-                w.paceMinutesPerMile = minutesPerMile;
-
+                // Intervals are interseting
                 if (w.title.ToLower().Contains("x")) interesting = true;
 
+                // Runs in unusual places are interesting
                 if (location.Length > 0 && (!location.Contains("wa"))) interesting = true;
 
-                if (interesting) workouts.Add(w);
+                if (!interesting) continue;
+
+                // Give weights (priorities) to runs that will affect how they get sorted in the output list...
+                //
+                // Default weight is zero.
+
+                // Really long runs (marathons)
+                if (w.distanceMiles >= 25) w.weight = 10.0;
+
+                // 5k races
+                else if (minutesPerMile <= 6.5 && w.title.Contains("5k")) w.weight = 6.0;
+
+                // Fast long runs (half marathons)
+                else if (w.distanceMiles >= 12.2 && minutesPerMile < 8) w.weight = 5.0;
+
+                // Fast short runs
+                else if (minutesPerMile <= 6.75) w.weight = 3.0;
+
+                // Runs in interesting places
+                else if (!location.Contains("wa")) w.weight = 2.0;
+
+                // Interval repeats
+                else if (titleString.Contains("x")) w.weight = 1.0;
+
+                // else if (titleString.Contains("arathon") || titleString.Contains("5k")) w.weight = 3.0;
+                
+                workouts.Add(w);
 
             } // ...for each workout
 
@@ -177,15 +207,21 @@ namespace MapMyRunLogger
             // Generate HTML
             StringBuilder htmlStringBuilder = new StringBuilder();
 
-			// For each workout...
+            iWorkout = 0;
+
+            // For each workout...
             //
             // Copy thumbnails, create HTML table rows
             foreach (Workout w in workouts)
-            {                 
+            {
+                Console.WriteLine("Processing workout {0} of {1}: {2}", iWorkout, workouts.Count, w.title);
+
                 // Copy this workout's thumbnail
 
                 bool includeImage = true;
+
                 String thumbnailInputPath = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "thumbnail." + w.id + ".png");
+                // String smallThumbnailInputPath = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "thumbnail." + w.id + ".small.png");
 
                 if (!System.IO.File.Exists(thumbnailInputPath)) includeImage = false;
 
@@ -195,15 +231,13 @@ namespace MapMyRunLogger
 
                     // Weird blank thumbnails come up as black squares
                     if (img.Width == img.Height) includeImage = false;
-                }
 
-                if (includeImage)
-                {
                     String outfile = System.IO.Path.Combine(HTML_THUMBS_DIR, "thumbnail." + w.id + ".png");
                     if (!System.IO.File.Exists(outfile)) System.IO.File.Copy(thumbnailInputPath, outfile, false);
-                    thumbnailInputPath = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "thumbnail." + w.id + ".small.png");
-                    outfile = System.IO.Path.Combine(HTML_THUMBS_DIR, "thumbnail." + w.id + ".small.png");
-                    if (!System.IO.File.Exists(outfile)) System.IO.File.Copy(thumbnailInputPath, outfile, false);
+
+                    String smallOutfile = System.IO.Path.Combine(HTML_THUMBS_DIR, "thumbnail." + w.id + ".small.png");
+                    Image smallImage = Resize(img, THUMBNAIL_W, THUMBNAIL_H, false);
+                    smallImage.Save(smallOutfile, ImageFormat.Png);                    
                 }
 
 				// Create a row with odd or even row class
@@ -279,6 +313,42 @@ namespace MapMyRunLogger
 
 		} // static void Main(string[] args)
 
-	} // public class RunPageGenerator
+        // From http://www.c-sharpcorner.com/article/resize-image-in-c-sharp/
+
+        /// <summary>  
+        /// resize an image and maintain aspect ratio  
+        /// </summary>  
+        /// <param name="image">image to resize</param>  
+        /// <param name="newWidth">desired width</param>  
+        /// <param name="maxHeight">max height</param>  
+        /// <param name="onlyResizeIfWider">if image width is smaller than newWidth use image width</param>  
+        /// <returns>resized image</returns>  
+        public static Image Resize(Image image, int newWidth, int maxHeight, bool onlyResizeIfWider)
+        {
+            if (onlyResizeIfWider && image.Width <= newWidth) newWidth = image.Width;
+
+            var newHeight = image.Height * newWidth / image.Width;
+            if (newHeight > maxHeight)
+            {
+                // Resize with height instead  
+                newWidth = image.Width * maxHeight / image.Height;
+                newHeight = maxHeight;
+            }
+
+            var res = new Bitmap(newWidth, newHeight);
+
+            using (var graphic = Graphics.FromImage(res))
+            {
+                graphic.InterpolationMode = InterpolationMode.HighQualityBicubic;
+                graphic.SmoothingMode = SmoothingMode.HighQuality;
+                graphic.PixelOffsetMode = PixelOffsetMode.HighQuality;
+                graphic.CompositingQuality = CompositingQuality.HighQuality;
+                graphic.DrawImage(image, 0, 0, newWidth, newHeight);
+            }
+
+            return res;
+        }
+
+    } // public class RunPageGenerator
 
 } // namespace MapMyRunLogger
