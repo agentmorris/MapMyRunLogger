@@ -5,7 +5,7 @@ namespace MapMyRunLogger
 {
     public class MMRConstants
     {
-        public const String OUTPUT_PATH = @"..\..\..\runData";
+        public const String OUTPUT_PATH = @"..\..\data\runData";
     }
 
     [Serializable, XmlRoot("Workout")]

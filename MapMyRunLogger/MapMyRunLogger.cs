@@ -29,14 +29,16 @@ namespace MapMyRunLogger
     public class MapMyRunLogger
     {
 		// The list of workouts to download (see readme.txt)
-        const String RUN_LIST_PATH = @"..\..\..\workout_history.17.06.12.2031.csv";        
+        const String RUN_LIST_PATH = @"..\..\data\workout_history.csv";        
 
 		// The MMR authentication URL
         const String MMR_AUTH_URL = "https://www.mapmyrun.com/auth/login";
 
 		// A username and password for authentication
-        const String MMR_USERNAME = "username";
-        const String MMR_PW = "password";
+        //
+        // Will prompt if blank.
+        static String MMR_USERNAME = "";
+        static String MMR_PW = "";
 
 		// We're going to retrieve thumbnails for every workout; what size should they be?
         const String THUMBNAIL_SIZE_STRING = "1000x500";
@@ -128,12 +130,26 @@ namespace MapMyRunLogger
 
         static void Main(string[] args)
         {
+            String cwd = System.IO.Directory.GetCurrentDirectory();
+
             if (!System.IO.Directory.Exists(MMRConstants.OUTPUT_PATH))
                 throw new Exception("Output dir not found");
 
             // Parse file
             if (!(System.IO.File.Exists(RUN_LIST_PATH)))
                 throw new Exception("Run list file not found");
+
+            // Prompt for login
+            if (MMR_USERNAME.Length == 0)
+            {
+                Console.Write("Enter username: ");
+                MMR_USERNAME = Console.ReadLine().Trim();
+                Console.WriteLine("Using username {0}", MMR_USERNAME);
+
+                Console.Write("Enter pw: ");
+                MMR_PW = Console.ReadLine().Trim();
+                Console.WriteLine("Using pw {0}", MMR_PW);
+            }
 
             // Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),
             //   Workout Time (seconds),Avg Pace (min/mi),Max Pace,Avg Speed (mi/h),Max Speed,
