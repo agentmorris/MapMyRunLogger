@@ -10,17 +10,20 @@
  * 
  *******/
 
- using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Xml;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace MapMyRunLogger
 {
     public class RunPageGenerator
     {
-        const String HTML_OUTPUT_DIR = @"..\..\..\HTML";
+        const String HTML_OUTPUT_DIR = @"..\..\data\HTML";
+        static String HTML_THUMBS_DIR = System.IO.Path.Combine(HTML_OUTPUT_DIR, "thumbs");
         const String HTML_TEMPLATE = "run_log_template.html";
         const String HTML_OUTPUT_FILE = "index.html";
 
@@ -58,8 +61,16 @@ namespace MapMyRunLogger
             String HTML_OUTPUT_PATH = System.IO.Path.Combine(HTML_OUTPUT_DIR, HTML_OUTPUT_FILE);
             String HTML_TEMPLATE_PATH = System.IO.Path.Combine(HTML_OUTPUT_DIR, HTML_TEMPLATE);
 
-            if (!System.IO.Directory.Exists(HTML_OUTPUT_DIR)) throw new Exception(String.Format("Could not find html directory, currently in {0}",
-                Environment.CurrentDirectory));
+            if (!System.IO.Directory.Exists(HTML_OUTPUT_DIR))
+            {
+                // throw new Exception(String.Format("Could not find html directory, currently in {0}", Environment.CurrentDirectory));
+                System.IO.Directory.CreateDirectory(HTML_OUTPUT_DIR);
+            }
+
+            if (!System.IO.Directory.Exists(HTML_THUMBS_DIR))
+            {
+                System.IO.Directory.CreateDirectory(HTML_THUMBS_DIR);
+            }
 
             // Enumerate all .xml files (workouts)
             String[] workoutFiles = System.IO.Directory.GetFiles(MMRConstants.OUTPUT_PATH, "*.xml");
@@ -71,6 +82,8 @@ namespace MapMyRunLogger
             int iWorkout = 0;
 
 			// For every workout...
+            //
+            // Decide whether we're going to include this workout
             foreach (String workoutFile in workoutFiles)
             {
 				// Read the data for this workout
@@ -165,6 +178,8 @@ namespace MapMyRunLogger
             StringBuilder htmlStringBuilder = new StringBuilder();
 
 			// For each workout...
+            //
+            // Copy thumbnails, create HTML table rows
             foreach (Workout w in workouts)
             {                 
                 // Copy this workout's thumbnail
@@ -181,12 +196,13 @@ namespace MapMyRunLogger
                     // Weird blank thumbnails come up as black squares
                     if (img.Width == img.Height) includeImage = false;
                 }
+
                 if (includeImage)
                 {
-                    String outfile = System.IO.Path.Combine(HTML_OUTPUT_DIR, "thumbs\\thumbnail." + w.id + ".png");
+                    String outfile = System.IO.Path.Combine(HTML_THUMBS_DIR, "thumbnail." + w.id + ".png");
                     if (!System.IO.File.Exists(outfile)) System.IO.File.Copy(thumbnailInputPath, outfile, false);
                     thumbnailInputPath = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "thumbnail." + w.id + ".small.png");
-                    outfile = System.IO.Path.Combine(HTML_OUTPUT_DIR, "thumbs\\thumbnail." + w.id + ".small.png");
+                    outfile = System.IO.Path.Combine(HTML_THUMBS_DIR, "thumbnail." + w.id + ".small.png");
                     if (!System.IO.File.Exists(outfile)) System.IO.File.Copy(thumbnailInputPath, outfile, false);
                 }
 

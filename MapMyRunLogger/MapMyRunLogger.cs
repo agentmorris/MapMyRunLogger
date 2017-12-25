@@ -133,7 +133,10 @@ namespace MapMyRunLogger
             String cwd = System.IO.Directory.GetCurrentDirectory();
 
             if (!System.IO.Directory.Exists(MMRConstants.OUTPUT_PATH))
-                throw new Exception("Output dir not found");
+            {
+                // throw new Exception("Output dir not found");
+                System.IO.Directory.CreateDirectory(MMRConstants.OUTPUT_PATH);
+            }
 
             // Parse file
             if (!(System.IO.File.Exists(RUN_LIST_PATH)))
@@ -223,6 +226,7 @@ namespace MapMyRunLogger
 
             // ...for each workout
 
+            // Write warnings out to a file
             using (StreamWriter sw = new StreamWriter(System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "warnings.txt")))
             {
                 foreach(Workout w in sortedWorkouts)
