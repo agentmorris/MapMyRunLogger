@@ -53,7 +53,7 @@ namespace MapMyRunLogger
 
         // If 1, don't use parallel.foreach
 #if DEBUG
-        const int MAX_DOWNLOAD_THREADS = 1;
+        const int MAX_DOWNLOAD_THREADS = 50;
 #else
         const int MAX_DOWNLOAD_THREADS = 50;
 #endif
@@ -284,6 +284,9 @@ namespace MapMyRunLogger
             String[] tokens = w.link.Split('/');
             String id = tokens[tokens.Length - 1];
             w.id = id;
+
+            // if (wIn.id.Equals("2467538360") == false) return;
+
             String tcxUrl = "http://www.mapmyrun.com/workout/export/" + id + "/tcx%20HTTP/1.1";
             String tcxOutFile = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "tcx_export." + id + ".tcx");
             String imageFile = System.IO.Path.Combine(MMRConstants.OUTPUT_PATH, "thumbnail." + id + ".png");
@@ -391,7 +394,7 @@ namespace MapMyRunLogger
                 }
 
                 // Download a thumbnail (really the 1000 x N image) for this run
-                if (System.IO.File.Exists(imageFile))
+                if (!(System.IO.File.Exists(imageFile)))
                 {
                     // <meta property="og:image" content="http://drzetlglcbfx.cloudfront.net/routes/thumbnail/55433136?size=200x200" />
                     Regex thumbnailR = new Regex("<.[^>]+og:image[^>]+content=\"(.*)\"[^>]+>");

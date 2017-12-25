@@ -102,6 +102,7 @@ namespace MapMyRunLogger
                 {
                     if (ignoreId.Equals(w.id))
                     {
+                        Console.WriteLine("Ignoring workout {0} ({1})", w.id, w.title);
                         ignore = true;
                         break;
                     }
@@ -117,9 +118,12 @@ namespace MapMyRunLogger
                     }
                 }
 
-				// Ignore workouts that are so short that they clearly aren't real
-                if (w.distanceMiles <= 2) continue;
-                if (w.durationSeconds == 0) continue;
+                // Ignore workouts that are so short that they clearly aren't real
+                if (w.distanceMiles <= 2 || w.durationSeconds == 0)
+                {
+                    Console.WriteLine("Ignoring bogus workout {0} ({1}, {2}, {3})", w.id, w.title, w.distanceMiles, w.durationSeconds);
+                    continue;
+                }
                 
                 // Is this workout interesting?
                 bool interesting = false;
